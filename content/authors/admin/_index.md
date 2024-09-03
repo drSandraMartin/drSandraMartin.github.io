@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc
+role: PostDoc @
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,26 +33,26 @@ profiles:
   - icon: at-symbol
     url: 'mailto:martin@cbs.mpg.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/sandram4rtin
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/sandram4rtin
   - icon: brands/github
     url: https://github.com/sandrushba
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=3sG78UAAAAAJ&hl=de
+  - icon: "custom/osf"
+    url: https://osf.io/6va5c/
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cognitive Aging
+  - Neurolinguistics and LLMs
+  - Network Neuroscience
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Cognitive Neuroscience
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31

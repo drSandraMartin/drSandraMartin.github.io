@@ -41,7 +41,7 @@ profiles:
   #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=3sG78UAAAAAJ&hl=de
-  - icon: "custom/osf"
+  - icon: "academicons/osf"
     url: https://osf.io/6va5c/
   #- icon: academicons/orcid
   #  url: https://orcid.org/

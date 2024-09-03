@@ -6,7 +6,7 @@
 # Website name
 title: Dr. Sandra Martin
 # Website URL
-baseURL: 'httpshttps://drsandramartin.github.io/'
+baseURL: 'https://drsandramartin.github.io/'
 
 ############################
 ## LANGUAGE

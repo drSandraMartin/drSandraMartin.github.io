@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc @
+role: PostDoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,39 +50,40 @@ interests:
   - Cognitive Aging
   - Neurolinguistics and LLMs
   - Network Neuroscience
+  - Neuromodulation via non-invasive brain stimulation
+  - Open and reproducible research
 
 education:
   - area: PhD Cognitive Neuroscience
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Max Planck Institute for Human Cognitive and Brain Sciences
+    date_start: 2018-02-01
+    date_end: 2023-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on __The aging brain in semantic cognition—Insights from fMRI and TMS__. Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Clinical Linguistics
+    institution: University of Potsdam, Germany & University of Groningen, The Netherlands
+    date_start: 2012-10-01
+    date_end: 2014-09-30
     summary: |
-      GPA: 3.8/4.0
+      Grade: Excellent (1.1)
+
+      Thesis on __Improving communication in aphasia: A comparison of naming- and discourse-based treatment, both facilitated by transcranial direct current stimulation__. Supervised by PD Dr Frank Burchert and Prof Dr Agnes Flöel
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA Linguistics
+    institution: Humboldt University Berlin
+    date_start: 2007-10-01
+    date_end: 2012-09-30
     summary: |
-      GPA: 3.4/4.0
+      Grade: Very good (1.5)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      2009 – 2010 Erasmus exchange student at Université Aix-Marseille, France
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

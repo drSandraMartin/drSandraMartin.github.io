@@ -59,7 +59,8 @@ education:
     date_start: 2018-02-01
     date_end: 2023-08-31
     summary: |
-      Thesis on __The aging brain in semantic cognition—Insights from fMRI and TMS__. Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
+      Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. 
+      Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -70,7 +71,8 @@ education:
     summary: |
       Grade: Excellent (1.1)
 
-      Thesis on __Improving communication in aphasia: A comparison of naming- and discourse-based treatment, both facilitated by transcranial direct current stimulation__. Supervised by PD Dr Frank Burchert and Prof Dr Agnes Flöel
+      Thesis on _Improving communication in aphasia: A comparison of naming- and discourse-based treatment, both facilitated by transcranial direct current stimulation_. 
+      Supervised by PD Dr Frank Burchert and Prof Dr Agnes Flöel
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

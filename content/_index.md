@@ -26,10 +26,12 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg.svg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'

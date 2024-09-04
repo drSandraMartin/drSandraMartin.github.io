@@ -50,7 +50,7 @@ interests:
   - Cognitive Aging
   - Neurolinguistics and LLMs
   - Network Neuroscience
-  - Neuromodulation via non-invasive brain stimulation
+  - Non-invasive brain stimulation
   - Open and reproducible research
 
 education:
@@ -60,10 +60,11 @@ education:
     date_end: 2023-08-31
     summary: |
       Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. 
-      Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
+      Supervised by Gesa [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read my thesis'
+      # {{% staticref "uploads/Diss_Digital.pdf" "newtab" %}}Download my thesis{{% /staticref %}}
+      url: uploads/Diss_Digital.pdf
   - area: MSc Clinical Linguistics
     institution: University of Potsdam, Germany & University of Groningen, The Netherlands
     date_start: 2012-10-01
@@ -73,11 +74,6 @@ education:
 
       Thesis on _Improving communication in aphasia: A comparison of naming- and discourse-based treatment, both facilitated by transcranial direct current stimulation_. 
       Supervised by PD Dr Frank Burchert and Prof Dr Agnes Flöel
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA Linguistics
     institution: Humboldt University Berlin
     date_start: 2007-10-01
@@ -145,12 +141,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: German
     percent: 100
-  - name: Chinese
+  - name: English
+    percent: 95
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hebrew
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.

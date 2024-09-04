@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg.svg
+          filename: bg2.svg
           filters:
-            brightness: 0.7
+            brightness: 0.6
           size: cover
           position: center
           parallax: false

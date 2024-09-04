@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg.svg
+          filename: bg_nice.svg
           filters:
-            brightness: 0.6
+            brightness: 0.75
           size: cover
           position: center
           parallax: false

@@ -59,17 +59,12 @@ education:
     date_start: 2018-02-01
     date_end: 2023-08-31
     summary: |
-      Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by 
-      name: Prof Dr Gesa Hartwigsen 
-      url: https://www.cbs.mpg.de/2038497/hartwigsen
-      name: and Prof Dr Dorothee Saur
-      url: https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf
-      - Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](/post/2023-05-24-good-day-closed-all-positions-realized-profit-+7983/)
-      - Internal Link (Last Position May) : [2023-06-01 Tricky Executions Expiry Profit Realized +7,727](/post/2023-06-01-tricky-executions-expiry-profit-realized-+7727/)
+      Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
+      <a href="https://www.cbs.mpg.de/2038497/hartwigsen">GESA</a>
     button:
       text: 'Read my thesis'
       # {{% staticref "uploads/Diss_Digital.pdf" "newtab" %}}Download my thesis{{% /staticref %}}
-      url: static/uploads/Diss_Digital.pdf
+      url: static/Diss_Digital.pdf
   - area: MSc Clinical Linguistics
     institution: University of Potsdam, Germany & University of Groningen, The Netherlands
     date_start: 2012-10-01

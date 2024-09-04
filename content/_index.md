@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+          text_color_light: false
   - block: markdown
     content:
       title: '📚 My Research'

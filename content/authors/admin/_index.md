@@ -59,8 +59,7 @@ education:
     date_start: 2018-02-01
     date_end: 2023-08-31
     summary: |
-      Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by [Prof Dr Gesa Hartwigsen](https://www.cbs.mpg.de/2038497/hartwigsen) and [Prof Dr Dorothee Saur](https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf)
-      <a href="https://www.cbs.mpg.de/2038497/hartwigsen">GESA</a>
+      Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by <a href="https://www.cbs.mpg.de/2038497/hartwigsen">Prof Dr Gesa Hartwigsen</a> and <a href="https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf">Prof Dr Dorothee Saur</a>
     button:
       text: 'Read my thesis'
       # {{% staticref "uploads/Diss_Digital.pdf" "newtab" %}}Download my thesis{{% /staticref %}}

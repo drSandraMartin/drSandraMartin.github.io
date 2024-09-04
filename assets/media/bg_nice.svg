@@ -67,7 +67,8 @@
        y1="123.09515"
        x2="177.62057"
        y2="125.34264"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.3012696e-7)" />
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Brilliance"
@@ -3902,7 +3903,7 @@ GAGMAEYAI4ARwAhgBDC5wzqAEcAIYAQwAhgBjABGYBQh8P8AeYfhsD4Sd+YAAAAASUVORK5CYII=
        id="image867"
        x="-16.460958"
        y="60.619427"
-       style="opacity:1" />
+       style="opacity:0.6" />
     <rect
        style="opacity:1;fill:url(#linearGradient879);fill-opacity:1;stroke:none;stroke-width:0.365001"
        id="rect871"
@@ -7719,6 +7720,6 @@ gkIQQAABBBCQFyDQ5e0YiQACCCCAgDIC/wHTv/SDHR0w3AAAAABJRU5ErkJggg==
        x="178.63063"
        y="52.841217"
        style="filter:url(#filter925)"
-       transform="matrix(0.70735232,0,0,0.70735232,70.2446,23.242069)" />
+       transform="matrix(0.70735232,0,0,0.70735232,70.2446,28.533739)" />
   </g>
 </svg>

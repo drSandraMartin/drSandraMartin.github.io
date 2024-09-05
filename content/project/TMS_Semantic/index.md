@@ -12,4 +12,6 @@ featured: true
 
 We explored the modulation of semantic and domain-general control in semantic processing via rTMS and fMRI.
 
+Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
+
 <!--more-->

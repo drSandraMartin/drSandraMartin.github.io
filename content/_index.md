@@ -72,7 +72,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: compact #date-title-summary
       # Reduce spacing
       #spacing:
       #  padding: [0, 0, 0, 0]
@@ -89,18 +89,14 @@ sections:
           - project
         featured_only: true
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
-      #view: article-grid
+      view: article-grid
       columns: 3
   - block: collection
     id: papers
     content:
       title: Recent Publications
       text: ""
-      count: 3
+      count: 4
       filters:
         folders:
           - publication

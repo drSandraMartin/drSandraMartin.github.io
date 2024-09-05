@@ -6,6 +6,8 @@ tags:
   - Hugo
   - Wowchemy
   - Markdown
+# Display this page in the Featured widget?
+featured: true
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.

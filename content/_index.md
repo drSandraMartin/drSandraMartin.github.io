@@ -54,10 +54,10 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
 - block: collection
     id: news
     content:

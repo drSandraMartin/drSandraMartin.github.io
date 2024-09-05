@@ -72,12 +72,13 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact #date-title-summary
+      view: date-title-summary
       # Reduce spacing
       #spacing:
       #  padding: [0, 0, 0, 0]
   - block: collection
     id: projects
+    show_date: false
     content:
       title: Projects
       # Page type to display. E.g. post, talk, publication...

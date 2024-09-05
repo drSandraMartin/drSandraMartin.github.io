@@ -1,11 +1,16 @@
 ---
 title: The Causal Role of the Multiple-Demand Network in Semantic and Domain-General Control
 # date: 2023-10-26
-external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
+# external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
 tags:
   - TMS
   - Semantics
   - Aging
+show_date: false
+reading_time: false
+share: false
+profile: true
+show_related: true
 # Display this page in the Featured widget?
 featured: true
 ---

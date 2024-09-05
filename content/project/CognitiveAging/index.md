@@ -6,6 +6,10 @@ tags:
   - Aging
   - Semantics
 show_date: false
+reading_time: false
+share: false
+profile: true
+show_related: true
 # Display this page in the Featured widget?
 featured: true
 ---

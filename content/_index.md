@@ -15,32 +15,6 @@ sections:
         title: Welcome
         # Choose a user profile to display (a folder name within `content/authors/`)
         username: admin
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/CV.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg_nice.svg
-          filters:
-            brightness: 0.6
-          size: cover
-          position: center
-          parallax: false
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: false
-      biography:
-        # Customize the CSS style of your biography text (optional)
-        style: ''
   #- block: markdown
   #  content:
   #    title: '📚 My Research'

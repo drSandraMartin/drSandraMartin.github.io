@@ -80,12 +80,16 @@ sections:
     id: projects
     content:
       title: Projects
+      # Page type to display. E.g. post, talk, publication...
+      page_type: project
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
       filters:
         folders:
           - project
         featured_only: true
     design:
-      view: article-grid
+      view: card #article-grid
       columns: 3
   - block: collection
     id: papers
@@ -97,7 +101,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: article-grid #citation
   #- block: collection
   #  id: talks
   #  content:

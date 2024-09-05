@@ -83,10 +83,10 @@ sections:
       filters:
         folders:
           - project
-        featured_only: false
+        featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     id: papers
     content:

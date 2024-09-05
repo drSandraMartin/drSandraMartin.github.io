@@ -4,13 +4,13 @@ title: The Causal Role of the Multiple-Demand Network in Semantic and Domain-Gen
 # external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
 tags:
   - TMS
-  - Semantics
+  - Semantic cognition
   - Aging
 show_date: false
 reading_time: false
 share: false
-profile: true
-show_related: true
+profile: false
+show_related: false
 # Display this page in the Featured widget?
 featured: true
 ---

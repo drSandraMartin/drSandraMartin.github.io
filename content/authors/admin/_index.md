@@ -46,13 +46,12 @@ profiles:
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
-<font color="white">interests:
+<font color="white">interests:</font>
   - Cognitive Aging
   - Neurolinguistics and LLMs
   - Network Neuroscience
   - Non-invasive brain stimulation
-  - Open and reproducible research</font>
-
+  - Open and reproducible research
 education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences

@@ -47,13 +47,13 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-<font color="white">  
+#<font color="white">  
   - Cognitive Aging
   - Neurolinguistics and LLMs
   - Network Neuroscience
   - Non-invasive brain stimulation
   - Open and reproducible research
-</font>
+#</font>
 education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences

@@ -47,13 +47,13 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-#<font color="white">  
+<font color="white">  
   - Cognitive Aging
   - Neurolinguistics and LLMs
   - Network Neuroscience
   - Non-invasive brain stimulation
   - Open and reproducible research
-#</font>
+</font>
 education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences
@@ -63,7 +63,6 @@ education:
       Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by <a href="https://www.cbs.mpg.de/2038497/hartwigsen">Prof Dr Gesa Hartwigsen</a> and <a href="https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf">Prof Dr Dorothee Saur</a>
     button:
       text: 'Read my thesis'
-      # {{% staticref "uploads/Diss_Digital.pdf" "newtab" %}}Download my thesis{{% /staticref %}}
       url: static/Diss_Digital.pdf
   - area: MSc Clinical Linguistics
     institution: University of Potsdam, Germany & University of Groningen, The Netherlands

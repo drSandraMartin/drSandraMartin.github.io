@@ -19,7 +19,7 @@
 
 
 <div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
-  <div class="flex-none m-w-[130px] mx-auto md:mx-0">
+  <div class="flex-none m-w-[100px] mx-auto md:mx-0">
 
   {{ $img := "" }}
   {{with $block.design.banner.filename}}
@@ -42,7 +42,7 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-10{{end}}">
+    <div class="avatar-wrapper {{ if $img }}-mt-[80px]{{else}}mt-10{{end}}">
       {{ $avatar_image := $avatar.Fill "150x150 Center" }}
       <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
@@ -124,8 +124,8 @@
 
     {{ with $person.interests }}
     <div class="">
-      <div class="section-subheading mb-3"; style="color: skyblue">{{ i18n "interests" | markdownify }}</div>
-      <ul class="list-disc list-inside space-y-1 pl-5">
+      <div class="section-subheading mb-3"; style="color:white">{{ i18n "interests" | markdownify }}</div>
+      <ul class="list-disc list-inside space-y-1 pl-5"; style="color:white">
         {{ range . }}
         <li>
           {{ . | markdownify | emojify }}
@@ -137,14 +137,14 @@
 
     {{ with $person.education }}
     <div class="">
-      <div class="section-subheading mb-3"; style="color: green!important">{{ i18n "education" | markdownify }}</div>
+      <div class="section-subheading mb-3"; style="color:white">{{ i18n "education" | markdownify }}</div>
       <ul class="">
         {{ range . }}
         <li class="flex items-start gap-3">
           {{ partial "functions/get_icon" (dict "name" "academic-cap" "attributes" "style=\"\" class='flex-shrink-0 w-5 h-5 me-2 mt-1'") }}
-          <div class="description">
-            <p class="course">{{ .area }}{{ with .year }}, {{ . }}{{ end }}</p>
-            <p class="text-sm">{{ .institution }}</p>
+          <div class="description"; style="color:white">
+            <p class="course"; style="color:white">{{ .area }}{{ with .year }}, {{ . }}{{ end }}</p>
+            <p class="text-sm"; style="color:white">{{ .institution }}</p>
           </div>
         </li>
         {{ end }}

@@ -9,6 +9,12 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: about.biography
+      id: about
+      content:
+        title: Welcome
+        # Choose a user profile to display (a folder name within `content/authors/`)
+        username: admin
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

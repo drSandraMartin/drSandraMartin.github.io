@@ -32,6 +32,9 @@ sections:
           parallax: false
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: ''
   #- block: markdown
   #  content:
   #    title: '📚 My Research'

@@ -16,9 +16,9 @@ main:
   - name: Publications
     url: /#papers
     weight: 12
-  - name: Talks
-    url: /#talks
-    weight: 13
+  #- name: Talks
+  #  url: /#talks
+  #  weight: 13
   - name: Bio
     url: experience/
     weight: 20

@@ -1,0 +1,24 @@
+.resume-biography {
+    #profile {
+      text-align: center;
+      padding: 20px 10px;
+      position: relative;
+    }
+  
+    /* Custom avatar size on homepage */
+  
+    .avatar {
+      width: auto;
+      height: auto;
+      max-width: 300px;
+      max-height: 300px;
+      object-fit: cover;
+    }
+  
+  .avatar-wrapper {
+    position: relative;
+    width: 200px; /* Match image size in about.avatar widget */
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }

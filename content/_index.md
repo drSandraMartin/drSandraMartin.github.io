@@ -103,7 +103,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: article-grid #citation
+      view: card #article-grid #citation
   #- block: collection
   #  id: talks
   #  content:

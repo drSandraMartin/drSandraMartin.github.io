@@ -7,7 +7,7 @@ authors:
 - Vincent K. M. Cheung
 - Sabrina Turker
 - Astrid Graessner
-- Sandra Martin
+- admin
 - Kathleen A. Williams
 - Gesa Hartwigsen
 date: '2022-04-01'

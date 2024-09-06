@@ -3,7 +3,7 @@ title: TMS over the Pre-SMA Enhances Semantic Cognition via Remote Network Effec
   on Task-Based Activity and Connectivity
 
 authors:
-- admin
+- Sandra Martin
 - Regine Frieling
 - Dorothee Saur
 - Gesa Hartwigsen

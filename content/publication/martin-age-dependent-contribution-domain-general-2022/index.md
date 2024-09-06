@@ -1,7 +1,7 @@
 ---
 title: Age-Dependent Contribution of Domain-General Networks to Semantic Cognition
 authors:
-- Sandra Martin
+- admin
 - Dorothee Saur
 - Gesa Hartwigsen
 date: '2022-02-01'

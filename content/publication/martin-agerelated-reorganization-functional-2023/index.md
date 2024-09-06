@@ -1,7 +1,7 @@
 ---
 title: Age-Related Reorganization of Functional Network Architecture in Semantic Cognition
 authors:
-- Sandra Martin
+- admin
 - Kathleen A Williams
 - Dorothee Saur
 - Gesa Hartwigsen

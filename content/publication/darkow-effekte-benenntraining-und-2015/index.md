@@ -3,7 +3,7 @@ title: Effekte von Benenntraining und Diskurstraining auf Spontansprache bei Aph
 
 authors:
 - R. Darkow
-- S. Martin
+- admin
 - M. Meinzer
 - F. Burchert
 - A. Floeel

@@ -10,7 +10,7 @@ authors:
 - Jonas Obleser
 date: '2024-05-01'
 publishDate: '2024-09-04T09:10:50.300304Z'
-publication_types:["article"]
+publication_types: ["article"]
 doi: 10.1101/2024.05.08.592872
 abstract: In everyday communication, humans predict
   upcoming language seemingly effortlessly. However, it remains unclear to what extent

@@ -1,5 +1,5 @@
 ---
-title: 'The Role of the Angular Gyrus in Semantic Cognition: A Synthesis of Five Functional
+ttitle: 'The Role of the Angular Gyrus in Semantic Cognition: A Synthesis of Five Functional
   Neuroimaging Studies'
 authors:
 - Philipp Kuhnke
@@ -37,10 +37,31 @@ abstract: Semantic knowledge is central to human cognition. The angular gyrus (A
   features associated with the same concept, enabling efficient access to task-relevant
   features.
 tags:
-- Concepts
+- Semantic Cognition
 - Default mode network
 - fMRI
 - Inferior parietal lobe
 - Semantic memory
----
 
+featured: true
+
+url_pdf: ''
+url_code: 'https://osf.io/ah5et/'
+url_dataset: 'https://osf.io/ah5et/'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+#  - TMS_Semantic
+
+reading_time: false
+share: false
+---

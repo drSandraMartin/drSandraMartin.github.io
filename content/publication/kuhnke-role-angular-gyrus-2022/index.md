@@ -1,5 +1,5 @@
 ---
-ttitle: 'The Role of the Angular Gyrus in Semantic Cognition: A Synthesis of Five Functional
+title: 'The Role of the Angular Gyrus in Semantic Cognition: A Synthesis of Five Functional
   Neuroimaging Studies'
 authors:
 - Philipp Kuhnke

@@ -2,7 +2,7 @@
 title: Quantification of Subject Motion during TMS via Pulsewise Coil Displacement
 authors:
 - Ole Numssen
-- Sandra Martin
+- admin
 - Kathleen Williams
 - Thomas R. Knösche
 - Gesa Hartwigsen
@@ -15,17 +15,13 @@ doi: 10.1016/j.brs.2024.08.009
 
 tags:
 - TMS
-- Aging
-- fMRI
-- Functional connectivity
-- Language
-- Semantic cognition
+- Methods Development
 
 featured: true
 
 url_pdf: ''
-url_code: 'https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph'
-url_dataset: 'https://neurovault.org/collections/13064/'
+url_code: 'https://gitlab.gwdg.de/tms-localization/papers/pcd'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -37,9 +33,11 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - TMS_Semantic
+#projects:
+#  - TMS_Semantic
 
 reading_time: false
 share: false
 ---
+
+This is a letter to the editor describing a new metric we propose to quantify subject motion during TMS applications. We also suggest use cases in experimental and clinical settings and how to implement this metric in statistical analyses.

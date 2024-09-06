@@ -18,4 +18,8 @@ We investigated age-related changes in semantic control and representation using
 
 Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/functionalconnectivityaging
 
+Related publications:
+- [Age-Dependent Contribution of Domain-General Networks to Semantic Cognition]({{< ref "/publication/martin-age-dependent-contribution-domain-general-2022/index.md" >}})
+- [Age-Related Reorganization of Functional Network Architecture in Semantic Cognition]({{< ref "/publication/martin-agerelated-reorganization-functional-2023/index.md" >}})
+
 <!--more-->

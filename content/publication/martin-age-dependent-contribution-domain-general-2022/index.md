@@ -27,4 +27,32 @@ abstract: 'Aging is characterized by a decline of cognitive control. In semantic
   task processing, independent of age, when access to semantic memory is required.
   Furthermore, our findings lend novel support to the notion of reduced efficiency
   in the aging brain due to neural dedifferentiation in semantic cognition.'
+tags:
+- Aging
+- fMRI
+- Functional connectivity
+- Language
+- Semantic Cognition
+
+featured: true
+
+url_pdf: ''
+url_code: 'https://gitlab.gwdg.de/functionalconnectivityaging/mdn_lang'
+url_dataset: 'https://neurovault.org/collections/9072/'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - CognitiveAging
+
+reading_time: false
+share: false
 ---

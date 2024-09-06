@@ -30,4 +30,34 @@ abstract: Cognitive aging is associated with widespread neural reorganization pr
   such compensatory reorganization and show that a youth-like network architecture
   in terms of balanced integration and segregation is associated with more economical
   processing.
+
+tags:
+- Aging
+- fMRI
+- Functional connectivity
+- Language
+- Semantic cognition
+- Graph Theory
+
+featured: true
+
+url_pdf: ''
+url_code: 'https://gitlab.gwdg.de/functionalconnectivityaging/mdn_lang_networkAnalysis'
+url_dataset: 'https://gitlab.gwdg.de/functionalconnectivityaging/mdn_lang_networkAnalysis'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - CognitiveAging
+
+reading_time: false
+share: false
 ---

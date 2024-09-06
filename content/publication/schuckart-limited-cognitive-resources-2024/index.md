@@ -8,6 +8,9 @@ authors:
 - Lea-Maria Schmitt
 - Gesa Hartwigsen
 - Jonas Obleser
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2024-05-01'
 publishDate: '2024-09-04T09:10:50.300304Z'
 publication_types: 

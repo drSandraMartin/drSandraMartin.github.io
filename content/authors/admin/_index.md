@@ -182,5 +182,9 @@ highlight_name: true
 ---
 
 ## Welcome
-<font color="white">I am a cognitive neuroscientist at the MPI for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan. With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.</font>
+<font color="white">I am a cognitive neuroscientist at the MPI for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.  
+
+With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
+
+Please reach out if you're interested to chat or to collaborate! :postbox:</font>
 {style="text-align: justify;"}

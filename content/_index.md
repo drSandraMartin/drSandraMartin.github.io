@@ -97,13 +97,13 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      count: 4
+      count: 3
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: card #article-grid #citation
+      view: article-grid #citation
   #- block: collection
   #  id: talks
   #  content:

@@ -71,7 +71,7 @@ education:
       Grade: Excellent (1.1)
 
       Thesis on _Improving communication in aphasia: A comparison of naming- and discourse-based treatment, both facilitated by transcranial direct current stimulation_. 
-      Supervised by PD Dr Frank Burchert and Prof Dr Agnes Flöel
+      Supervised by <a href="https://www2.medizin.uni-greifswald.de/neurolog/klinik/mitarbeiter/prof-dr-agnes-floeel/">Prof Dr Agnes Flöel</a> and <a href="https://www.uni-potsdam.de/en/ling/staff-list/frank-burchert">PD Dr Frank Burchert</a>
   - area: BA Linguistics
     institution: Humboldt University Berlin
     date_start: 2007-10-01
@@ -81,28 +81,40 @@ education:
       
       2009 – 2010 Erasmus exchange student at Université Aix-Marseille, France
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Spokesperson of the network for doctoral candidates
+    company_name: German Association of Speech-Language Therapy (dbs e.V.)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2020-10-01
+    date_end: '2022-06-30'
+    summary: ''
+
+  - position: Speech-Language Pathologist
+    company_name: Median Klinik Berlin Kladow, Germany, Clinic for neurological rehabilitation
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-06-01
+    date_end: '2017-12-31'
+    summary: ''
+
+  - position: Research Internship
+    company_name: Research Group Cognitive Neurology, NeuroCure Clinical Research Center, Charité Berlin, Germany
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-06-01
+    date_end: 2015-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advised by Dr Robert Darkow
+
+  - position: Student Assistantship
+    company_name: Center for Language and Cognition, University of Groningen, The Netherlands
+    company_url: ''
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2013-03-31
+    summary: |
+      - Advised by Prof Dr Roelien Bastiaanse
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -182,9 +194,9 @@ highlight_name: true
 ---
 
 ## Welcome
-<font color="white">I am a cognitive neuroscientist at the MPI for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.  
+<font color="white">I am a cognitive neuroscientist at the MPI for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.{style="text-align: justify;"}  
 
-With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
+With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.{style="text-align: justify;"}
 
 Please reach out if you're interested to chat or to collaborate! <a href= "mailto: martin@cbs.mpg.de">:postbox:</a></font>
 {style="text-align: justify;"}

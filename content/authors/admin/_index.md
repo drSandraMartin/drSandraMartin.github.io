@@ -186,5 +186,5 @@ highlight_name: true
 
 With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
 
-Please reach out if you're interested to chat or to collaborate! :postbox:</font>
+Please reach out if you're interested to chat or to collaborate! <a href= "mailto: martin@cbs.mpg.de">:postbox:</a></font>
 {style="text-align: justify;"}

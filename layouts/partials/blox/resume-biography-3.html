@@ -103,8 +103,8 @@
 
   <div class="flex-auto max-w-prose md:mt-2">
     {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
-    <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
-      <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
+    <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert text-xl">
+      <div class="bio-text text-lg" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
         {{ . }}
       </div>
     </div>
@@ -120,21 +120,22 @@
 
 
 
-  <div class="grid grid-cols-2 gap-4 justify-between mt-6 dark:text-gray-300">
+  <div class="grid grid-cols-2 gap-4 justify-between mt-6 dark:text-gray-300 text-lg">
 
     {{ with $person.interests }}
     <div class="">
-      <div class="section-subheading mb-3"; style="color:white">{{ i18n "interests" | markdownify }}</div>
-      <ul class="list-disc list-inside space-y-1 pl-5"; style="color:white">
+      <div class="section-subheading mb-3" style="color:white">{{ i18n "interests" | markdownify }}</div>
+      <ul class="list-disc list-inside space-y-1 pl-5" style="color:white">
         {{ range . }}
-        <li>
-          {{ . | markdownify | emojify }}
+        <li class="flex items-start gap-3">
+          {{ partial "functions/get_icon" (dict "name" "bookmark" "attributes" "style=\"\" class='flex-shrink-0 w-5 h-5 me-2 mt-1'") }}
+          <span>{{ . | markdownify | emojify }}</span>
         </li>
         {{ end }}
       </ul>
     </div>
     {{ end }}
-
+    
     {{ with $person.education }}
     <div class="">
       <div class="section-subheading mb-3"; style="color:white">{{ i18n "education" | markdownify }}</div>

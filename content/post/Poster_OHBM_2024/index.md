@@ -23,7 +23,3 @@ share: false
 
 profile: false
 ---
-
-{{% callout note %}}
-You can download the poster here: [Download poster]({{< ref "content/post/Poster_OHBM_2024/Poster_OHBM_2024_SandraMartin.pdf" >}})
-{{% /callout %}}

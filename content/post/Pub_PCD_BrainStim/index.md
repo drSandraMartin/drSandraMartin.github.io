@@ -15,13 +15,12 @@ tags:
   - TMS
   - New Paper
 
-projects:
-  - TMS_Semantic
-
 reading_time: false
 share: false
+
+profile: false
 ---
 
 {{% callout note %}}
-Find the Letter to the Editor here: [Link to Paper](https://doi.org/10.1016/j.brs.2024.08.009)
+Find the Letter to the Editor here: https://doi.org/10.1016/j.brs.2024.08.009
 {{% /callout %}}

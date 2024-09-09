@@ -1,11 +1,12 @@
 ---
 title: Semantic Cognition across the Adult Lifespan
-date: 2018-2023
+# date: 2018-2023
 #external_link: https://gitlab.gwdg.de/functionalconnectivityaging
 tags:
   - Aging
   - Semantic cognition
 show_date: false
+hide_date: true
 reading_time: false
 share: false
 profile: false

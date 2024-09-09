@@ -88,6 +88,7 @@
             <time class="truncate text-sm" datetime="{{ time.Format "2006-01-02" $item.Date }}">
             {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
             </time>
+          {{- end -}}
         </div>
       </div>
 

@@ -15,14 +15,14 @@ publishDate: '2024-09-04T09:10:50.244439Z'
 publication_types:
 - article-journal
 
-publication: '*Sprache $·$ Stimme $·$ Gehör*'
+publication: '*Sprache · Stimme · Gehör*'
 
 doi: 10.1055/s-0035-1559656
 
 abstract: Since the introduction of the international classification of functioning,
   disability and health, there has been a controversy as to whether more traditional
   or participation-oriented therapy approaches should be used in the treatment of
-  aphasia patients. In this pilot study, we■■ the effects of a naming treatment and
+  aphasia patients. In this pilot study, we compared the effects of a naming treatment and
   a newly developed discourse-treatment on connected speech in daily life. During
   both treatments, transcranial direct current stimulation was administered. Although
   this adjuvant therapy is still under evaluation, it is thought to facilitate therapy

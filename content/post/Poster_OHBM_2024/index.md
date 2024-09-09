@@ -23,6 +23,3 @@ share: false
 
 profile: false
 ---
-{{% callout note %}}
-Find the poster here: {{% staticref "Poster_OHBM_2024.pdf" "newtab" %}}Download poster{{% /staticref %}}
-{{% /callout %}}

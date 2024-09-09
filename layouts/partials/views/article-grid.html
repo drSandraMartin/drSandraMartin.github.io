@@ -27,7 +27,7 @@
       href="{{ $link }}" {{ $target | safeHTMLAttr }}>
 
       <img alt="{{ $item.Title | plainify }}"
-           class="{{if $fill_image}}object-fill{{else}}object-contain{{end}} transition-all responsive-image"
+           class="transition-all responsive-image"
            data-nimg="fill"
            decoding="async"
            fetchpriority="high" height="{{ $image.Height }}" loading="lazy" src="{{ $image.RelPermalink }}"

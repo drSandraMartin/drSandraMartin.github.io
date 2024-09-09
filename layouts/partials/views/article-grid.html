@@ -84,9 +84,10 @@
           <!--          </a>-->
           <span class="text-xs text-gray-300 dark:text-gray-600">•</span>
           {{end}}
-          <time class="truncate text-sm" datetime="{{ time.Format "2006-01-02" $item.Date }}">
-          {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
-          </time>
+          {{- if .Date | and (not .Params.hide_date) -}}
+            <time class="truncate text-sm" datetime="{{ time.Format "2006-01-02" $item.Date }}">
+            {{- $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}
+            </time>
         </div>
       </div>
 

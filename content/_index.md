@@ -77,6 +77,7 @@ sections:
       #spacing:
       #  padding: [0, 0, 0, 0]
   - block: markdown
+    id: about
     content:
       title: 'About me'
       subtitle: ''

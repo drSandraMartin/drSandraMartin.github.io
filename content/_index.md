@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg_nice_bigBrain.svg
           filters:
-            brightness: 0.6
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
@@ -77,11 +77,12 @@ sections:
       #spacing:
       #  padding: [0, 0, 0, 0]
   - block: markdown
+    id: about
     content:
-      title: 'About Me'
+      title: 'About me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research interests are about cognitive changes in the aging brain. I am interested in changes in the healthy but also 
   
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
@@ -103,9 +104,13 @@ sections:
           - project
         featured_only: true
     design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
       show_date: false
       hide_date: true
-      view: article-grid
+      # view: article-grid
       columns: 3
   - block: collection
     id: papers

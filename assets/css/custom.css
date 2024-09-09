@@ -48,3 +48,7 @@
     flex-direction: column; 
     flex-grow: 1;
 }
+
+.custom-text-size {
+  font-size: 1.125rem; /* 18px */
+}

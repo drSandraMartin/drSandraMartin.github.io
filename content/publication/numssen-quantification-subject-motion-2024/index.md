@@ -38,6 +38,7 @@ url_video: ''
 
 reading_time: false
 share: false
+profile: false
 ---
 
 This is a letter to the editor describing a new metric we propose to quantify subject motion during TMS applications. We also suggest use cases in experimental and clinical settings and how to implement this metric in statistical analyses.

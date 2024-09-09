@@ -78,8 +78,8 @@ sections:
       #  padding: [0, 0, 0, 0]
   - block: collection
     id: projects
-    show_date: false
     content:
+      show_date: false
       title: Projects
       # Page type to display. E.g. post, talk, publication...
       page_type: project
@@ -90,6 +90,7 @@ sections:
           - project
         featured_only: true
     design:
+      show_date: false
       view: article-grid
       columns: 3
   - block: collection

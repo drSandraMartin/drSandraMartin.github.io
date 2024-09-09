@@ -36,7 +36,7 @@
           {{ range $i, $author_obj := (.GetTerms $taxonomy) -}}
             {{ $author_page := $author_obj.Page -}}
             {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" -}}
-            {{- if and $i (not $avatar) -}}<span class="mr-0">, </span>{{- end -}}
+            {{- if and $i (not $avatar) -}}<span class="mr-0">,</span> {{- end -}}
             {{- with $author_page.Params.website -}}
             <a href="{{.}}" target="_blank" rel="noreferrer">
             {{- end -}}

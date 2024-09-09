@@ -78,6 +78,8 @@ sections:
       #  padding: [0, 0, 0, 0]
   - block: collection
     id: projects
+    show_date: false
+    hide_date: true
     content:
       show_date: false
       hide_date: true

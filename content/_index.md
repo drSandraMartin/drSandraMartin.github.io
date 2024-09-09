@@ -80,6 +80,7 @@ sections:
     id: projects
     content:
       show_date: false
+      hide_date: true
       title: Projects
       # Page type to display. E.g. post, talk, publication...
       page_type: project
@@ -91,6 +92,7 @@ sections:
         featured_only: true
     design:
       show_date: false
+      hide_date: true
       view: article-grid
       columns: 3
   - block: collection

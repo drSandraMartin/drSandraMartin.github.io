@@ -40,9 +40,11 @@
 }
 
 .responsive-image {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
+    object-fit: cover;
     position: relative;
-    background-color: white; /* Ensure the image itself has a white background */
+    background-color: white; /* Ensure the image itself has a white background width: 100%;
+    height: auto; */
+    display: flex; 
+    flex-direction: column; 
+    flex-grow: 1;
 }

@@ -93,6 +93,22 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: projects
+    show_date: false
+    content:
+      title: Projects
+      # Page type to display. E.g. post, talk, publication...
+      page_type: project
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     id: papers
     content:
       title: Recent Publications

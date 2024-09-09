@@ -48,4 +48,6 @@ projects:
 
 reading_time: false
 share: false
+
+profile: false
 ---

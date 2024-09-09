@@ -1,5 +1,5 @@
 ---
-title: 🧑‍🧑‍🧒 Poster at OHBM 2024
+title: 👥 Poster at OHBM 2024
 summary: I went to OHBM 2024 in Seoul, South Korea, and presented two posters
 date: 2024-06-26
 
@@ -20,6 +20,8 @@ projects:
 
 reading_time: false
 share: false
+
+profile: false
 ---
 
 {{% callout note %}}

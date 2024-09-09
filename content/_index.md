@@ -77,12 +77,11 @@ sections:
       #spacing:
       #  padding: [0, 0, 0, 0]
   - block: markdown
-    id: about
     content:
       title: 'About me'
       subtitle: ''
       text: |-
-        My research interests are about cognitive changes in the aging brain. I am interested in changes in the healthy but also 
+        My research interests are about cognitive changes in the aging brain.
   
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
@@ -104,13 +103,9 @@ sections:
           - project
         featured_only: true
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
       show_date: false
       hide_date: true
-      # view: article-grid
+      view: article-grid
       columns: 3
   - block: collection
     id: papers

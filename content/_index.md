@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg_nice_bigBrain.svg
           filters:
-            brightness: 0.5
+            brightness: 0.6
           size: cover
           position: center
           parallax: false
@@ -35,18 +35,6 @@ sections:
       biography:
         # Customize the CSS style of your biography text (optional)
         style: ''
-  #- block: markdown
-  #  content:
-  #    title: '📚 My Research'
-  #    subtitle: ''
-  #    text: |-
-  #      Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-  #
-  #      I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-  #      
-  #      Please reach out to collaborate 😃
-  #  design:
-  #    columns: '1'
   - block: collection
     id: news
     content:
@@ -76,24 +64,33 @@ sections:
       # Reduce spacing
       #spacing:
       #  padding: [0, 0, 0, 0]
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Research'
+  #    subtitle: ''
+  #    text: |-
+  #      Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  #
+  #      I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  #      
+  #      Please reach out to collaborate 😃
+  #  design:
+  #    columns: '1'
   - block: markdown
     id: about
     content:
-      title: 'About me'
-      subtitle: ''
+      title: About me
+      # Page type to display. E.g. post, talk, publication...
+      page_type: pages
       text: |-
-        My research interests are about cognitive changes in the aging brain.
-  
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
     design:
-      columns: '1'
+      columns: 1
   - block: collection
     id: projects
     show_date: false
-    hide_date: true
     content:
       show_date: false
-      hide_date: true
       title: Projects
       # Page type to display. E.g. post, talk, publication...
       page_type: project
@@ -105,7 +102,6 @@ sections:
         featured_only: true
     design:
       show_date: false
-      hide_date: true
       view: article-grid
       columns: 3
   - block: collection

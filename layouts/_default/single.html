@@ -26,38 +26,38 @@
       </h1>
 
       <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-base flex items-center flex-wrap gap-y-2">
-        {{- if .Date | and (not .Params.hide_date) -}}
-        <span class="mr-1">{{- .Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}</span>
-        {{- if .Params.authors }}<span class="mx-1">·</span>{{ end -}}
-        {{- end -}}
-
-        {{ $taxonomy := "authors" }}
-        {{ range $i, $author_obj := (.GetTerms $taxonomy) }}
-          {{ $author_page := $author_obj.Page }}
-          {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}
-          {{- if and $i (not $avatar) }}<span class="mr-0">,</span>{{ end -}}
-          {{ with $author_page.Params.website }}
-          <a href="{{.}}" target="_blank" rel="noreferrer">
-          {{ end }}
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            {{ with $avatar }}
-            {{ $avatar = $avatar.Process "Fill 50x50 Center webp" }}
-            <img src="{{ $avatar.RelPermalink }}" alt="{{ $author_page.Title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
-            {{ end }}
-            <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}</div>
-          </div>
-          {{ with $author_page.Params.website }}
-          </a>
-          {{ end }}
-        {{ end }}
-
-        {{ if ne .Params.reading_time false }}
-        <span class="mx-1">·</span>
-        <span class="mx-1">
-          {{ .ReadingTime }} {{ i18n "minute_read" }}
-        </span>
-        {{ end }}
+        <div class="text-gray-500 dark:text-gray-300 text-base flex items-center flex-wrap gap-y-2">
+          {{- if .Date | and (not .Params.hide_date) -}}
+          <span class="mr-1">{{- .Date | time.Format (site.Params.locale.date_format | default ":date_long") -}}</span>
+          {{- if .Params.authors }}<span class="mx-1">·</span>{{ end -}}
+          {{- end -}}
+      
+          {{ $taxonomy := "authors" }}
+          {{ range $i, $author_obj := (.GetTerms $taxonomy) -}}
+            {{ $author_page := $author_obj.Page -}}
+            {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" -}}
+            {{- if and $i (not $avatar) -}}<span class="mr-0">,</span>{{- end -}}
+            {{- with $author_page.Params.website -}}
+            <a href="{{.}}" target="_blank" rel="noreferrer">
+            {{- end -}}
+            <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
+              {{- with $avatar -}}
+              {{ $avatar = $avatar.Process "Fill 50x50 Center webp" -}}
+              <img src="{{ $avatar.RelPermalink }}" alt="{{ $author_page.Title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
+              {{- end -}}
+              <div {{- if $author_page.Params.website -}}class="group-hover:underline"{{- end -}}>{{ $author_page.Title }}</div>
+            </div>
+            {{- with $author_page.Params.website -}}
+            </a>
+            {{- end -}}
+          {{- end -}}
+      
+          {{- if ne .Params.reading_time false -}}
+          <span class="mx-1">·</span>
+          <span class="mx-1">
+            {{ .ReadingTime }} {{ i18n "minute_read" }}
+          </span>
+          {{- end -}}
         </div>
 
         <div class="mt-3">
@@ -103,14 +103,14 @@
 
         {{ if .Params.abstract }}
           <div class="font-bold text-2xl">{{ i18n "abstract" }}</div>
-          <div class="text-lg">{{ .Params.abstract | markdownify }}</div>
+          <div class="text-justify">{{ .Params.abstract | markdownify }}</div>
         {{ end }}
 
         {{/* If the type is Uncategorized, hide the type. */}}
         {{ if $pub_type_display }}
           <div class="font-bold text-2xl">{{ i18n "publication_type" }}</div>
           <div>
-            <a href="{{ range first 1 (.GetTerms "publication_types") }}{{.RelPermalink}}{{end}}">
+            <a class="text-lg" href="{{ range first 1 (.GetTerms "publication_types") }}{{.RelPermalink}}{{end}}">
             {{ $pub_type_display }}
             </a>
           </div>
@@ -118,7 +118,7 @@
 
         {{ if .Params.publication }}
           <div class="font-bold text-2xl">{{ i18n "publication" }}</div>
-          <div>{{ .Params.publication | markdownify }}</div>
+          <div class="text-lg">{{ .Params.publication | markdownify }}</div>
         {{ end }}
 
         {{ if eq .Type "event" }}

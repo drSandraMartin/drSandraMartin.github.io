@@ -22,5 +22,5 @@ profile: false
 ---
 
 {{% callout note %}}
-Find the Letter to the Editor here: https://doi.org/10.1016/j.brs.2024.08.009
+Find the Letter to the Editor here: [Link to paper](https://doi.org/10.1016/j.brs.2024.08.009)
 {{% /callout %}}

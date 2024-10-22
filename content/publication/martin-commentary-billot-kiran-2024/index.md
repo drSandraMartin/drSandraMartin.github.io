@@ -3,7 +3,7 @@ title: The dynamics of neuroplasticity in the recovery from post-stroke aphasia
 authors:
 - admin
 - Gesa Hartwigsen
-date: '2024-10-15'
+date: '2024-11-01'
 publishDate: '2024-11-01'
 publication_types:
 - article-journal

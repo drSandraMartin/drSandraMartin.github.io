@@ -11,8 +11,8 @@ publication: '*Brain and Language*'
 doi: 10.1016/j.bandl.2024.105479
 
 tags:
-- Aphasia
-- Aphasia Recovery
+- Aphasia 
+- Aphasia and Lang Recovery
 
 featured: true
 

@@ -157,18 +157,18 @@ skills:
         icon: custom/nilearn.png
       - name: SPM12
         icon: custom/spm12.png
-    - name: Hard Skills
-      items:
-        - name: Lover of Statistics
-        - name: Project management
-        - name: Open Science
-        - name: Grant writing
-    - name: Soft Skills
-      items:
-        - name: Complex thinking
-        - name: Supervision
-        - name: Teamwork
-        - name: Communication
+  - name: Hard Skills
+    items:
+      - name: Lover of Statistics
+      - name: Project management
+      - name: Open Science
+      - name: Grant writing
+  - name: Soft Skills
+    items:
+      - name: Complex thinking
+      - name: Supervision
+      - name: Teamwork
+      - name: Communication
 
 languages:
   - name: German

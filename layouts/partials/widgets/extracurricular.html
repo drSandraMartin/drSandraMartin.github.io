@@ -1,0 +1,10 @@
+<div class="extracurricular">
+    <h2>{{ .Params.title }}</h2>
+    <ul>
+      {{ range .Site.Data.extracurricular }}
+      <li>
+        <strong>{{ .activity }}</strong>: {{ .description }}
+      </li>
+      {{ end }}
+    </ul>
+</div>

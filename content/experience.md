@@ -22,13 +22,10 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-extracurricular
+  - block: custom
     content:
       title: Extracurricular Activities
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
+    widget: extracurricular
   - block: resume-skills
     content:
       title: Skills & Hobbies

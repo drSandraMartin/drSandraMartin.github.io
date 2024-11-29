@@ -121,12 +121,8 @@ work:
 
 # Extracurricular Activities
 extracurricular:
-  - area: PhD Cognitive Neuroscience
-    institution: Max Planck Institute for Human Cognitive and Brain Sciences
-    date_start: 2018-02-01
-    date_end: 2023-08-31
-    summary: |
-      helped people
+  - activity: volunteer at Local Shelter
+    description: Organized weekly events and managed volunteer schedules.
   
  
 # Skills

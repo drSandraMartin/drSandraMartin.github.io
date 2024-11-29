@@ -162,6 +162,14 @@
         {{ partial "page_footer" . }}
       </div>
 
+      {{ range .Params.sections }}
+        {{ if eq .block "custom" }}
+          {{ partial "extracurricular.html" . }}
+        {{ else }}
+          {{/* Handle other blocks */}}
+        {{ end }}
+      {{ end }}
+
     </main>
   </article>
 </div>

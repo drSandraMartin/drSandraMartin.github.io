@@ -56,10 +56,10 @@
 .cta-block {
   background-color: #f9f9f9;
   text-align: center;
+  padding: 10px;
   border-radius: 5px;
 }
 
 .cta-button {
-  padding: 10px;
-  border-radius: 5px;
+  padding: 5px;
 }

@@ -27,7 +27,8 @@ sections:
       title: Extracurricular Activities
       username: admin
     design:
-      show_skill_percentage: false
+      # Hugo date format
+      date_format: 'January 2006'
   - block: resume-skills
     content:
       title: Skills & Hobbies

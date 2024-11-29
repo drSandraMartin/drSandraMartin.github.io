@@ -122,9 +122,10 @@ work:
 
 # Extracurricular Activities
 extracurricular:
-  - name: Spokesperson
-    date: '2020-11-01'
-
+  - area: Spokesperson
+    year: '2020-11-01'
+    institution: SLP
+ 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

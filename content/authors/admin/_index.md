@@ -121,8 +121,9 @@ work:
 
 # Extracurricular Activities
 extracurricular:
-  - activity: volunteer at Local Shelter
-    description: Organized weekly events and managed volunteer schedules.
+  - activity: Chess Club President
+    role: President
+    description: Led the club to regional championships.
   
  
 # Skills

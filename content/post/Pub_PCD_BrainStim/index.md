@@ -21,6 +21,6 @@ share: false
 profile: false
 ---
 
-{{% callout note %}}
-Find the Letter to the Editor here: [Link to paper](https://doi.org/10.1016/j.brs.2024.08.009)
-{{% /callout %}}
+With Pulsewise Coil Displacement (PCD) we address the issue of coil movement during stimulation and assess its impact on stimulation strength and electrical fields. It's an easy-to-calculate metric that will give you an idea, how much you stimulation actually arrived at the target you intended to stimulate!
+
+{{< cta text="Read more about it here:" link="https://doi.org/10.1016/j.brs.2024.08.009" buttonText="doi.org/10.1016/j.brs.2024.08.009" >}}

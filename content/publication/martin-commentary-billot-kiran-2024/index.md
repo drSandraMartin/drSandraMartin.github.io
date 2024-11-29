@@ -12,7 +12,7 @@ doi: 10.1016/j.bandl.2024.105479
 
 tags:
 - Aphasia 
-- Aphasia and Lang Recovery
+- Aphasia and Language Recovery
 
 featured: true
 

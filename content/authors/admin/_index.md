@@ -152,11 +152,18 @@ skills:
       - name: Github/Gitlab
         icon: devicon/git
       - name: Psychopy
-        icon: custom/Psychopy
+        icon: custom/Psychopy.png
       - name: Nilearn
-        icon: custom/nilearn
+        icon: custom/nilearn.png
       - name: SPM12
-        icon: custom/spm12
+        icon: custom/spm12.png
+    - name: Hard Skills
+      items:
+      - name: Project management
+      - name: Supervision
+      - name: Grant writing
+      - name: Lover of Statistics
+        icon: custom/spm12.png
 
 languages:
   - name: German

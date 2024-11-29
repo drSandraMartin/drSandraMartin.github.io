@@ -10,9 +10,9 @@ main:
   - name: News
     url: /#news
     weight: 10
-  - name: About me
-    url: /#about
-    weight: 11
+  #- name: About me
+  #  url: /#about
+  #  weight: 11
   - name: Projects
     url: /#projects
     weight: 12
@@ -22,6 +22,9 @@ main:
   #- name: Talks
   #  url: /#talks
   #  weight: 13
+  - name: "Conferences"
+    url: /tags/Conference/
+    weight: 14
   - name: Résumé
     url: experience/
     weight: 20

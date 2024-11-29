@@ -81,14 +81,14 @@ sections:
     content:
       title: About me
       # Page type to display. E.g. post, talk, publication...
-      page_type: pages
+      page_type: talk
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
         <a href="/publication/martin-agerelated-reorganization-functional-2023/" class="btn">Read more</a>
       button:
         text: Read more
-        url: /publication/martin-agerelated-reorganization-functional-2023/index.md
+        url: /publication/martin-agerelated-reorganization-functional-2023/
     design:
       columns: 1
   - block: collection

@@ -9,7 +9,7 @@ authors:
   - admin
 
 tags:
-  - Aphasia recovery
+  - Aphasia
   - New Paper
 
 reading_time: false

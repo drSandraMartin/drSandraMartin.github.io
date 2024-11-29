@@ -12,8 +12,10 @@ authors:
   - admin
 
 tags:
-  - Poster
+  - Talk
   - Conference
+  - Semantic Cognition
+  - Aphasia
 
 projects:
   - TaxThem

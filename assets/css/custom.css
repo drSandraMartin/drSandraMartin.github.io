@@ -54,9 +54,9 @@
 }
 
 .cta-block {
-  padding: 10px;
+  background-color: var(bg-gray-900);
   text-align: center;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .cta-button {

@@ -1,26 +1,15 @@
 {{ define "main" }}
 
-{{ $pub_type_csl := "" }}
-{{ $pub_type_display := "" }}
-{{ if .Params.publication_types }}
-  {{ if reflect.IsSlice .Params.publication_types }}
-    {{ $pub_type_csl = index .Params.publication_types 0 }}
-    {{ $pub_type_display = i18n (printf "pub_%s" (strings.Replace $pub_type_csl "-" "_")) | default (strings.Title $pub_type_csl) }}
-  {{ end }}
-{{ end }}
-
 <div class="mx-auto flex max-w-screen-xl">
-  {{ partial "components/sidebar.html" (dict "context" . "no_sidebar" true) }}
-  {{ partial "components/toc.html" . }}
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
       {{ range .Params.sections }}
         {{ if eq .block "extracurricular" }}
-          {{ partial "blox/extracurricular.html" . }}
+          {{ partial "extracurricular.html" . }}
         {{ end }}
       {{ end }}
-
+      
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">
         {{ partial "components/breadcrumb.html" . }}

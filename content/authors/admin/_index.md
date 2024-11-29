@@ -78,8 +78,7 @@ education:
     date_start: 2007-10-01
     date_end: 2012-09-30
     summary: |
-      Grade: Very good (1.5)
-      
+      Grade: Very good (1.5)   
       2009 – 2010 Erasmus exchange student at Université Aix-Marseille, France
 
 work:
@@ -122,9 +121,13 @@ work:
 
 # Extracurricular Activities
 extracurricular:
-  - area: Spokesperson
-    year: '2020-11-01'
-    institution: SLP
+  - area: PhD Cognitive Neuroscience
+    institution: Max Planck Institute for Human Cognitive and Brain Sciences
+    date_start: 2018-02-01
+    date_end: 2023-08-31
+    summary: |
+      helped people
+  
  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

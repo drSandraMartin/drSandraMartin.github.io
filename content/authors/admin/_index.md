@@ -53,6 +53,7 @@ interests:
   - Network Neuroscience
   - Non-invasive brain stimulation
   - Open and reproducible research
+
 education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences
@@ -82,13 +83,16 @@ education:
       2009 – 2010 Erasmus exchange student at Université Aix-Marseille, France
 
 work:
-  - position: Spokesperson of the network for doctoral candidates
-    company_name: German Association of Speech-Language Therapy (dbs e.V.)
+  - position: Postdoctoral researcher
+    company_name: Research group Cognition & Plasticity, Max Planck Institute for Human Cognitive and Brain Sciences
     company_url: ''
     company_logo: ''
-    date_start: 2020-10-01
-    date_end: '2022-06-30'
-    summary: ''
+    date_start: 2023-08-01
+    #date_end: 
+    summary: |
+    Project: Contribution of cognitive control resources to the processing of language surprisal across
+    the adult life span (DFG-funded project in collaboration with University of Lübeck)
+    Advisers: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Jonas Obleser (University of Lübeck)
 
   - position: Speech-Language Pathologist
     company_name: Median Klinik Berlin Kladow, Germany, Clinic for neurological rehabilitation
@@ -173,13 +177,23 @@ awards:
     url: https://www.studienstiftung.de/en/
     date: '2018-02-01'
     awarder: German Academic Scholarship Foundation
-    summary: Full-time stipend for my PhD, 2018-2022
+    summary: Full stipend for my PhD, 2018-2022
   - title: Poster prize
     date: '2020-11-01'
     awarder: German Society for Clinical Neurophysiology and Functional Imaging
   - title: First prize at Science Slam
-    date: '2020-11-01'
-    awarder: German Society for Clinical Neurophysiology and Functional Imaging
+    date: '2019-02-01'
+    awarder: German Association of Speech-Language Therapy
+  - title: Travel award
+    date: '2014-09-01'
+    awarder: Erasmus Mundus Program, European Union
+  - title: Erasmus Mundus Fellowship (~24.000 €)
+    date: '2012-09-01'
+    awarder: Erasmus Mundus Program, European Union
+    summary: Full stipend for my Master's studies in Groningen, The Netherlands, and Potsdam, Germany
+  - title: DAAD Promos stipend
+    date: '2011-06-01'
+    awarder: German Academic Exchange Service
 ---
 
 ## Welcome

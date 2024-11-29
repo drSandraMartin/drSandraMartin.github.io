@@ -1,5 +1,5 @@
 ---
-title: 📚 New article out: The dynamics of neuroplasticity in the recovery from post-stroke aphasia
+title: 📚 New article – The dynamics of neuroplasticity in the recovery from post-stroke aphasia
 summary: We wrote an invited commentary on an overview paper by Billot & Kiran (Brain & Language, 2024), in which they discuss the role of homeostasis and Hebbian plasticity in aphasia recovery
 date: 2024-11-01
 

@@ -27,4 +27,4 @@ We wrote an invited commentary on an overview paper by Billot & Kiran (Brain & L
 
 Find the Commentary here: [Link to paper](https://doi.org/10.1016/j.bandl.2024.105479)
 
-{{ partial "cta.html" . }}
+{{< partial "cta.html" . >}}

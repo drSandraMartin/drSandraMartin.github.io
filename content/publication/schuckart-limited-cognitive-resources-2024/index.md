@@ -1,6 +1,5 @@
 ---
-title: Limited Cognitive Resources Reduce the Language Predictability Benefit across
-  the Adult Lifespan
+title: Executive Resources Shape the Effects of Language Predictability Across the Adult Lifespan
 authors:
 - Merle Schuckart
 - admin
@@ -16,21 +15,7 @@ publishDate: '2024-09-04T09:10:50.300304Z'
 publication_types: 
 - article
 doi: 10.1101/2024.05.08.592872
-abstract: In everyday communication, humans predict
-  upcoming language seemingly effortlessly. However, it remains unclear to what extent
-  the formation of such predictions taxes executive resources. Our study set out to
-  investigate how a limitation of executive resources impacts natural language prediction
-  on multiple timescales in a novel dual-task paradigm, and how this impact is modulated
-  by age. Participants (N = 175; 18--85 years) read short newspaper articles, presented
-  word by word in varying font colours. This self-paced reading task was either performed
-  in isolation or paired with a competing n-back task (1-back or 2-back) on the words'
-  font colour. We measured word-level reading time and block-level reading comprehension
-  as well as n-back performance. To quantify word predictability, we estimated word surprisal on four distinct timescales (i.e., context lengths ranging
-  from words to paragraphs) using a large language model. Under high cognitive load,
-  adults aged 60 and over benefited most from high word predictability. Our results
-  show that independent of timescale, higher cognitive load diminishes the benefits
-  of high word predictability on reading time, suggesting language predictions draw
-  on executive resources.
+abstract: Humans predict upcoming language effortlessly, but the cognitive costs of these predictions remain debated. In this study, we demonstrate that limiting executive resources through a concurrent task reduces the effect of language predictability on reading times. Participants (N=175, replication N=96) read short articles presented word-by-word while completing a secondary font colour n-back task, thus varying cognitive demand. Language predictability was indexed by word surprisal as derived from a generative pre-trained transformer model (GPT-2). Our results show that predictability effects increase with age (18–85 years), and across both samples, higher cognitive load consistently diminished the impact of word predictability on reading speed. These findings highlight the resource-dependent nature of predictive mechanisms in language comprehension across the lifespan. We conclude that linguistic predictions rely on executive resources, which helps resolve the debate about the cognitive cost of predictive language processing.
 
 tags:
 - Aging

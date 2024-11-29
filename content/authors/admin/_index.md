@@ -159,11 +159,16 @@ skills:
         icon: custom/spm12.png
     - name: Hard Skills
       items:
-      - name: Project management
-      - name: Supervision
-      - name: Grant writing
-      - name: Lover of Statistics
-        icon: custom/spm12.png
+        - name: Lover of Statistics
+        - name: Project management
+        - name: Open Science
+        - name: Grant writing
+    - name: Soft Skills
+      items:
+        - name: Complex thinking
+        - name: Supervision
+        - name: Teamwork
+        - name: Communication
 
 languages:
   - name: German

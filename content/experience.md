@@ -25,7 +25,6 @@ sections:
   - block: custom
     content:
       title: Extracurricular Activities
-    widget: extracurricular
   - block: resume-skills
     content:
       title: Skills & Hobbies

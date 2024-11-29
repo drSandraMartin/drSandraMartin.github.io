@@ -25,6 +25,7 @@ sections:
   - block: extracurricular
     content:
       title: Extracurricular Activities
+      username: admin
   - block: resume-skills
     content:
       title: Skills

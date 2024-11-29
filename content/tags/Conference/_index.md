@@ -1,5 +1,5 @@
 ---
-title: "<span style='font-size: 1.5rem;'>Conferences</span>"
+title: "Conferences"
 description: "Posts tagged with Conference"
 type: "tag"
 ---

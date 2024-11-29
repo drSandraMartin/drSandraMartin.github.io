@@ -1,8 +1,0 @@
-<!-- layouts/partials/cta.html -->
-<div class="cta-block">
-    <h2>{{ with .Params.ctaTitle }}{{ . }}{{ else }}{{ .Site.Params.ctaTitle }}{{ end }}</h2>
-    <p>{{ with .Params.ctaText }}{{ . }}{{ else }}{{ .Site.Params.ctaText }}{{ end }}</p>
-    <a href="{{ with .Params.ctaLink }}{{ . }}{{ else }}{{ .Site.Params.ctaLink }}{{ end }}" class="cta-button" target="_blank" rel="noopener noreferrer">
-        {{ with .Params.ctaButtonText }}{{ . }}{{ else }}{{ .Site.Params.ctaButtonText }}{{ end }}
-    </a>
-</div>

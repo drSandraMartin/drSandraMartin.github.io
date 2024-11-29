@@ -84,14 +84,14 @@ education:
 
 work:
   - position: Postdoctoral researcher
-    company_name: Research group Cognition & Plasticity, Max Planck Institute for Human Cognitive and Brain Sciences
-    company_url: ''
+    company_name: Research Group Cognition & Plasticity, Max Planck Institute for Human Cognitive and Brain Sciences
+    company_url: 'https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity'
     company_logo: ''
     date_start: 2023-08-01
     #date_end: 
     summary: |
       Project: Contribution of cognitive control resources to the processing of language surprisal across
-      the adult life span (DFG-funded project in collaboration with University of Lübeck)
+      the adult life span (DFG-funded project in collaboration with University of Lübeck)   
       Advisers: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Jonas Obleser (University of Lübeck)
 
   - position: Speech-Language Pathologist
@@ -109,7 +109,7 @@ work:
     date_start: 2014-06-01
     date_end: 2015-07-31
     summary: |
-      - Advised by Dr Robert Darkow
+      Advised by Dr Robert Darkow
 
   - position: Student Assistantship
     company_name: Center for Language and Cognition, University of Groningen, The Netherlands
@@ -118,8 +118,12 @@ work:
     date_start: 2012-09-01
     date_end: 2013-03-31
     summary: |
-      - Advised by Prof Dr Roelien Bastiaanse
+      Advised by Prof Dr Roelien Bastiaanse
 
+# Extracurricular Activities
+extra:
+  - name: Spokesperson
+    date: '2020-11-01'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

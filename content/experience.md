@@ -24,6 +24,12 @@ sections:
       username: admin
   - block: resume-skills
     content:
+      title: Extracurricular Activities
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-skills
+    content:
       title: Skills & Hobbies
       username: admin
     design:

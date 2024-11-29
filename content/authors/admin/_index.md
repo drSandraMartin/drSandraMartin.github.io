@@ -194,10 +194,10 @@ highlight_name: true
 ---
 
 ## Welcome
-<font color="white">I am a cognitive neuroscientist at the MPI for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.
+<font color="white">I am a cognitive neuroscientist at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.
 {style="text-align: justify;"}  
 
-With my background as a trained speech-language pathologist, I am particularly drawn to the dynamics of language processing in both healthy and damaged brains. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
+I am particularly interested in the age-related changes in the trajectories of memory processes and their interaction with executive functions. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
 {style="text-align: justify;"}
 
 Please reach out if you're interested to chat or to collaborate! <a href= "mailto: martin@cbs.mpg.de">:postbox:</a></font>

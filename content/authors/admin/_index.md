@@ -155,8 +155,8 @@ skills:
         icon: custom/Psychopy.png
       - name: Nilearn
         icon: custom/nilearn.png
-      - name: SPM12
-        icon: custom/spm12.png
+      #- name: SPM12
+      #  icon: custom/spm12.png
   - name: Hard Skills
     items:
       - name: Lover of Statistics

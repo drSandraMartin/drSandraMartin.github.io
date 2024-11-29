@@ -90,9 +90,9 @@ work:
     date_start: 2023-08-01
     #date_end: 
     summary: |
-    Project: Contribution of cognitive control resources to the processing of language surprisal across
-    the adult life span (DFG-funded project in collaboration with University of Lübeck)
-    Advisers: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Jonas Obleser (University of Lübeck)
+      Project: Contribution of cognitive control resources to the processing of language surprisal across
+      the adult life span (DFG-funded project in collaboration with University of Lübeck)
+      Advisers: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Jonas Obleser (University of Lübeck)
 
   - position: Speech-Language Pathologist
     company_name: Median Klinik Berlin Kladow, Germany, Clinic for neurological rehabilitation

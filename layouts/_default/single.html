@@ -15,6 +15,14 @@
   <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
+      {{ range .Params.sections }}
+        {{ if eq .block "custom" }}
+          {{ partial "blox/custom.html" . }}
+        {{ else }}
+          {{/* Handle other blocks */}}
+        {{ end }}
+      {{ end }}
+
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">
         {{ partial "components/breadcrumb.html" . }}
@@ -162,13 +170,7 @@
         {{ partial "page_footer" . }}
       </div>
 
-      {{ range .Params.sections }}
-        {{ if eq .block "custom" }}
-          {{ partial "extracurricular.html" . }}
-        {{ else }}
-          {{/* Handle other blocks */}}
-        {{ end }}
-      {{ end }}
+
 
     </main>
   </article>

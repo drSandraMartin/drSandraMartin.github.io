@@ -83,7 +83,9 @@ education:
 
 work:
   - position: Postdoctoral researcher
-    company_name: Research Group Cognition & Plasticity, Max Planck Institute for Human Cognitive and Brain Sciences
+    company_name: |
+      Research Group Cognition & Plasticity,  
+      Max Planck Institute for Human Cognitive and Brain Sciences
     company_url: 'https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity'
     company_logo: ''
     date_start: 2023-08-01

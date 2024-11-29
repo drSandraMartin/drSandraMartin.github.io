@@ -22,7 +22,7 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-skills
+  - block: resume-extracurricular
     content:
       title: Extracurricular Activities
       username: admin

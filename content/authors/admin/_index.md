@@ -125,7 +125,7 @@ work:
 extracurricular:
   - activity: Volunteer at Local Shelter
     role: Organizer
-    description: Organized weekly events and managed volunteer schedules.  
+    description: Organized weekly events and managed volunteer schedules.
   - activity: Chess Club President
     role: President
     description: Led the club to regional championships.
@@ -151,8 +151,12 @@ skills:
     items:
       - name: Github/Gitlab
         icon: devicon/git
-      - name: Python
-        icon: devicon/python
+      - name: Psychopy
+        icon: custom/Psychopy
+      - name: Nilearn
+        icon: custom/nilearn
+      - name: SPM12
+        icon: custom/spm12
 
 languages:
   - name: German

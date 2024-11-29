@@ -16,12 +16,10 @@
     <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
 
       {{ range .Params.sections }}
-      {{ if eq .block "custom" }}
-        {{ partial "blox/custom.html" . }}
-      {{ else }}
-        {{/* Handle other blocks */}}
+        {{ if eq .block "extracurricular" }}
+          {{ partial "blox/extracurricular.html" . }}
+        {{ end }}
       {{ end }}
-    {{ end }}
 
       {{ if .Params.show_breadcrumb }}
       <div class="mb-4">

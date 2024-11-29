@@ -171,8 +171,9 @@ awards:
     awarder: Conference Psychology und Gehirn
   - title: PhD Fellowship (~80.000 €)
     url: https://www.studienstiftung.de/en/
-    date: '2018-2022'
+    date: '2018-02-01'
     awarder: German Academic Scholarship Foundation
+    summary: Full-time stipend for my PhD, 2018-2022
   - title: Poster prize
     date: '2020-11-01'
     awarder: German Society for Clinical Neurophysiology and Functional Imaging

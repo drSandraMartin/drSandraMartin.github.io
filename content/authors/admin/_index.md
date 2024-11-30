@@ -163,11 +163,11 @@ skills:
       - name: Git
         icon: devicon/git
       - name: Psychopy
-        icon: "custom/psychopy"
+        icon: "custom/Psychopy.png"
       - name: Nilearn
-        icon: "custom/nilearn"
+        icon: "custom/nilearn-logo.png"
       - name: SPM12
-        icon: "custom/spm"
+        icon: "custom/spm12.png"
   - name: Hard Skills
     items:
       - name: Lover of Statistics

@@ -167,7 +167,17 @@ skills:
       - name: Nilearn
         icon: "custom/nilearn-logo.png"
       - name: SPM12
-        icon: "custom/spm12.png"
+        icon: "custom/spm"
+  - name: Analysis
+    items:
+      - name: Mixed-Effects Regression
+        icon: "custom/lmm"
+      - name: Generalized Additive Models
+        icon: "custom/gam"
+      - name: Graph Theory
+        icon: "custom/graph"
+      - name: MVPA
+        icon: "custom/mvpa"
   - name: Hard Skills
     items:
       - name: Lover of Statistics

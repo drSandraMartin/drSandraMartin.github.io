@@ -22,23 +22,12 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: markdown
-    id: section-1
-    content:
-      title: Extracurricular Activities2
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-  - block: extracurricular
-    content:
-      title: Extracurricular Activities
-      username: admin
   - block: resume-skills
     content:
       title: Skills
       username: admin
     design:
       show_skill_percentage: false
-  
   - block: resume-languages
     content:
       title: Languages

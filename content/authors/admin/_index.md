@@ -190,6 +190,12 @@ skills:
       - name: Supervision
       - name: Teamwork
       - name: Communication
+  - name: Outreach
+    items:
+      - name: Science communication in podcasts and newspaper articles
+      - name: Lectures and workshops for kids and students
+      - name: TMS Lab demonstrations
+      - name: Speaker at Long Night of the Sciences
 
 languages:
   - name: German

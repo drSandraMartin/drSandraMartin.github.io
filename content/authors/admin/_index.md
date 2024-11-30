@@ -132,6 +132,17 @@ extracurricular:
   - activity: Community Theater
     role: Actor
     description: Performed in multiple community theater productions.
+
+markdown:
+  - activity: Volunteer at Local Shelter
+    role: Organizer
+    description: Organized weekly events and managed volunteer schedules.
+  - activity: Chess Club President
+    role: President
+    description: Led the club to regional championships.
+  - activity: Community Theater
+    role: Actor
+    description: Performed in multiple community theater productions.
   
  
 # Skills
@@ -149,7 +160,7 @@ skills:
         icon: devicon/bash
   - name: Software
     items:
-      - name: Github/Gitlab
+      - name: Git
         icon: devicon/git
       - name: Psychopy
         icon: "custom/psychopy"

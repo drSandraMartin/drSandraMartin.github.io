@@ -167,7 +167,7 @@ skills:
       - name: Nilearn
         icon: "custom/nilearn"
       - name: SPM12
-        icon: "custom/spm12"
+        icon: "custom/spm"
   - name: Hard Skills
     items:
       - name: Lover of Statistics

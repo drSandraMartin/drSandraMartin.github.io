@@ -15,6 +15,18 @@
 {{ $skills := $person_page.Params.skills }}
 {{ $show_show_skill_percentage := $block.design.show_skill_percentage | default true }}
 
+<div class="flex">
+  <!-- Sidebar -->
+  <div class="w-64 bg-gray-800 text-white h-screen p-4">
+    <h2 class="text-xl font-bold mb-4">Menu</h2>
+    <ul>
+      <li class="mb-2"><a href="#" class="hover:text-gray-300">Home</a></li>
+      <li class="mb-2"><a href="#" class="hover:text-gray-300">About</a></li>
+      <li class="mb-2"><a href="#" class="hover:text-gray-300">Services</a></li>
+      <li class="mb-2"><a href="#" class="hover:text-gray-300">Contact</a></li>
+    </ul>
+  </div>
+
 <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
 
   <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">

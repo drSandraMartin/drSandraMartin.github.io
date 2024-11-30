@@ -22,6 +22,11 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: resume-skills
+    content:
+      title: Extracurricular Activities
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
   - block: extracurricular
     content:
       title: Extracurricular Activities

@@ -163,9 +163,9 @@ skills:
       - name: Git
         icon: devicon/git
       - name: Psychopy
-        icon: "custom/Psychopy.png"
+        icon: "custom/psychopy"
       - name: Nilearn
-        icon: "custom/nilearn-logo.png"
+        icon: "custom/nilearn"
       - name: SPM12
         icon: "custom/spm"
   - name: Analysis

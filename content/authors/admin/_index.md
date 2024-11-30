@@ -133,7 +133,7 @@ extracurricular:
     role: Actor
     description: Performed in multiple community theater productions.
 
-markdown:
+section-1:
   - activity: Volunteer at Local Shelter
     role: Organizer
     description: Organized weekly events and managed volunteer schedules.

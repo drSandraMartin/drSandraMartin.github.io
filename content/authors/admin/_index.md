@@ -35,14 +35,15 @@ profiles:
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/sandram4rtin
-  - icon: brands/github
-    url: https://github.com/sandrushba
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.de/citations?user=3sG78UAAAAAJ&hl=de
   - icon: "academicons/osf"
     url: https://osf.io/6va5c/
+  - icon: brands/github
+    url: https://github.com/sandrushba
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 

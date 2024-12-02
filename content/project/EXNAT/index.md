@@ -28,5 +28,5 @@ Related Output:
 - [Executive Resources Shape the Effects of Language Predictability Across the Adult Lifespan]({{< ref "/publication/schuckart-limited-cognitive-resources-2024/index.md" >}})
 
 *Conferences*
-
+[Link to SNL poster]
 <!--more-->

@@ -7,7 +7,15 @@ date: forthcoming
 publishDate: '2024-12-02'
 publication_types:
 - chapter
-publication: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'
+container-title: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'
+
+chapter-number: 7
+number-of-pages: 26
+language: "de", "en"
+publisher: Springer Nature
+publisher-place: Berlin, Germany
+status: 'forthcoming'
+
 tags:
 - Language
 - Semantic Cognition

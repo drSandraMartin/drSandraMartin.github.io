@@ -3,7 +3,7 @@ title: Plasticity and reorganisation in the language network after stroke
 authors:
 - Gesa Hartwigsen
 - admin
-date: 'forthcoming'
+date: '2025-06-01'
 #publishDate: '2024-12-02'
 publication_types:
 - chapter

@@ -12,7 +12,7 @@ hide_date: true
 reading_time: false
 share: false
 profile: false
-show_related: false
+show_related: true
 # Display this page in the Featured widget?
 featured: true
 ---
@@ -28,5 +28,5 @@ Related Output:
 - [Executive Resources Shape the Effects of Language Predictability Across the Adult Lifespan]({{< ref "/publication/schuckart-limited-cognitive-resources-2024/index.md" >}})
 
 *Conferences*  
-- [Link to the poster I presented at SNL 2023](/post/Poster_SNL_2023/index.md)
+- [Link to the poster I presented at SNL 2023]({{< ref "/post/Poster_SNL_2023/index.md" >}})
 <!--more-->

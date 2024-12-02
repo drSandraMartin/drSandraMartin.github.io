@@ -16,7 +16,7 @@ tags:
   - Conference
 
 projects:
-  - TaxThem
+  - EXNAT
 
 reading_time: false
 share: false

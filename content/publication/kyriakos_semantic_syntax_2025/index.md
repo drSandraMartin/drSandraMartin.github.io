@@ -3,8 +3,8 @@ title: Semantic and syntactic networks in the brain
 authors:
 - admin
 - Gesa Hartwigsen
-date: forthcoming
-publishDate: '2024-12-02'
+#date: forthcoming
+#publishDate: '2024-12-02'
 publication_types:
 - chapter
 container-title: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'

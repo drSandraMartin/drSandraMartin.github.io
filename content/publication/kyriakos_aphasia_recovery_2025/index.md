@@ -3,8 +3,8 @@ title: Plasticity and reorganisation in the language network after stroke
 authors:
 - Gesa Hartwigsen
 - admin
-date: 'forthcoming'
-publishDate: '2024-12-02'
+#date: 'forthcoming'
+#publishDate: '2024-12-02'
 publication_types:
 - chapter
 publication: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'

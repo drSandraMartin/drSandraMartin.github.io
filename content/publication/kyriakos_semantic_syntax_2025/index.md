@@ -3,7 +3,7 @@ title: Semantic and syntactic networks in the brain
 authors:
 - admin
 - Gesa Hartwigsen
-#date: forthcoming
+date: "forthcoming"
 #publishDate: '2024-12-02'
 publication_types:
 - chapter

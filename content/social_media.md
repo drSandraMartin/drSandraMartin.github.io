@@ -1,12 +1,12 @@
 ---
-title: 'Social Media'
-type: landing
-layout: social_media
-
+title: "Social Media"
+date: 2023-10-10
+draft: false
+layout: "social_media"
 social_links:
   - title: "Twitter"
     url: "https://twitter.com/sandram4rtin"
-    icon: "twitter"
+    icon: "x"
   - title: "LinkedIn"
     url: "https://linkedin.com/in/yourusername"
     icon: "linkedin"

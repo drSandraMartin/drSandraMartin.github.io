@@ -25,6 +25,9 @@ main:
   - name: "Conferences"
     url: /tags/Conference/
     weight: 14
+  - name: "Social Media"
+    url: social_media/
+    weight: 14
   - name: Résumé
     url: experience/
     weight: 20

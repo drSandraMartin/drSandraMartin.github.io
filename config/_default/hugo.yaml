@@ -53,9 +53,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.111.0'
-

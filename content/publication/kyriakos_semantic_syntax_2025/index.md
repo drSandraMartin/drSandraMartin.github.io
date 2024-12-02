@@ -9,9 +9,11 @@ publication_types:
 - chapter
 container-title: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'
 
-chapter-number: '7'
-number-of-pages: '26'
-language: "de", "en"
+publication: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'
+
+#chapter-number: '7'
+#number-of-pages: '26'
+language: "de"
 publisher: Springer Nature
 publisher-place: Berlin, Germany
 status: 'forthcoming'

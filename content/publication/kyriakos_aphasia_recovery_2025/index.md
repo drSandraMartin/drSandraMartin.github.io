@@ -1,13 +1,13 @@
 ---
-title: Semantic and syntactic networks in the brain.
+title: Plasticity and reorganisation in the language network after stroke
 authors:
 - Gesa Hartwigsen
 - admin
-date: '2022-02-01'
-publishDate: forthcoming
+date: 'forthcoming'
+publishDate: '2024-12-02'
 publication_types:
 - chapter
-publication: '*Plasticity and reorganisation in the language network after stroke*'
+publication: '*Transcranial Electrical Stimulation in Aphasia and Acquired Language Disorders*'
 tags:
 - Language
 - Aphasia

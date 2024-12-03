@@ -1,24 +1,14 @@
 ---
 title: Social Media
-date: 2023-10-10
-show_date: false
-draft: false
-type: social_media
-layout: social_media
+type: landing
 
+# Add your page sections below
+# Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
 sections:
-  - block: markdown
-    id: section-1
+  - block: 'github.drSandraMartin.social-media'
     content:
       title: Social Media
-      subtitle: A subtitle
-      text: |
-          <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
-      icon: "twitter"
-            <img src="brands/x" alt="Twitter" class="w-6 h-6 mr-2">
-            <span>Follow me on Twitter</span>
-          </a>
-
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       social_links:
         - title: "Twitter"
           url: "https://twitter.com/sandram4rtin"
@@ -29,11 +19,17 @@ sections:
         - title: "GitHub"
           url: "https://github.com/yourusername"
           icon: "github"
-    design: 
-      columns: '2'
-      view: social_media
-
----
+    social_links:
+        - title: "Twitter"
+          url: "https://twitter.com/sandram4rtin"
+          icon: "x"
+        - title: "LinkedIn"
+          url: "https://linkedin.com/in/yourusername"
+          icon: "linkedin"
+        - title: "GitHub"
+          url: "https://github.com/yourusername"
+          icon: "github"
+ ---
 
 All the links.
 

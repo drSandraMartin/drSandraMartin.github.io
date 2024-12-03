@@ -39,7 +39,7 @@
         <div class="flex items-center">
           {{- $icon := $link.icon }}
           {{ with $icon }}
-          <div class="w-7 h-7 text-gray-500 dark:text-gray-400 mr-3">
+          <div class="skills-icon w-7 h-7 text-gray-500 dark:text-gray-400 mr-3">
             {{ partial "functions/get_icon" (dict "name" . "attributes" "style=\"height: 100%;\"")  }}
           </div>
           {{ end}}

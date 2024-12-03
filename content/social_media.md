@@ -10,7 +10,7 @@ sections:
       title: All the links.
 
 social_links:
-    - title: <div style="word-break: break-all;">"ResearchGate"</div>
+    - title: "Research Gate"
       url: "https://www.researchgate.net/profile/Sandra-Martin-16"
       icon: academicons/researchgate
     - title: "Google Scholar"
@@ -20,7 +20,7 @@ social_links:
       url: "https://orcid.org/0000-0002-6687-5278"
       icon: brands/orcid
     - title: "GitHub"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/sandrushba"
       icon: brands/github
     - title: "Gitlab"
       url: "https://gitlab.gwdg.de/sandra.martin"

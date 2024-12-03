@@ -13,12 +13,11 @@ sections:
       title: Social Media
       subtitle: A subtitle
       text: |
-        <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
+          <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
       icon: "twitter"
             <img src="brands/x" alt="Twitter" class="w-6 h-6 mr-2">
             <span>Follow me on Twitter</span>
           </a>
-        </div>
 
       social_links:
         - title: "Twitter"

@@ -33,7 +33,7 @@
           {{- $icon := $link.icon }}
           {{ with $icon }}
           <div class="w-7 h-7 text-gray-500 dark:text-gray-400 mr-3">
-            {{ partial "functions/get_icon" (dict "name" $icon "pack" "brands" "attributes" "style=\"height: 100%;\"")  }}
+            {{ partial "functions/get_icon" (dict "name" . "attributes" "style=\"height: 100%;\"")  }}
           </div>
           {{ end}}
           {{with $link.url}}<a href={{.}} target="_blank" rel="noopener">{{end}}

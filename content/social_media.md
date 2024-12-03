@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: 'social-media'
     content:
-      title: All the links
+      title: All the links.
 
 social_links:
     - title: "ResearchGate"

@@ -27,7 +27,7 @@ social_links:
       icon: custom/Minerva
     - title: "Gitlab"
       url: "https://gitlab.gwdg.de/sandra.martin"
-      icon: devicon/gitlab
+      icon: custom/gitlab
     - title: "OSF"
       url: "https://osf.io/6va5c/"
       icon: academicons/osf

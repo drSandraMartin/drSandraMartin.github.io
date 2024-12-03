@@ -7,7 +7,7 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-  - path: github.com/drSandraMartin/hugo-blox-private_blox
+  - path: github.com/drSandraMartin/private_blox
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:

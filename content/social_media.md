@@ -20,7 +20,7 @@ sections:
           url: "https://github.com/yourusername"
           icon: "github"
     social_links:
-        - title: "Twitter"
+        - title: "X"
           url: "https://twitter.com/sandram4rtin"
           icon: "x"
         - title: "LinkedIn"

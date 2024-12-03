@@ -19,16 +19,16 @@ sections:
         - title: "GitHub"
           url: "https://github.com/yourusername"
           icon: "github"
-    social_links:
-        - title: "X"
-          url: "https://twitter.com/sandram4rtin"
-          icon: "x"
-        - title: "LinkedIn"
-          url: "https://linkedin.com/in/yourusername"
-          icon: "linkedin"
-        - title: "GitHub"
-          url: "https://github.com/yourusername"
-          icon: "github"
+social_links:
+    - title: "X"
+      url: "https://twitter.com/sandram4rtin"
+      icon: "x"
+    - title: "LinkedIn"
+      url: "https://linkedin.com/in/yourusername"
+      icon: "linkedin"
+    - title: "GitHub"
+      url: "https://github.com/yourusername"
+      icon: "github"
  
 ---
 

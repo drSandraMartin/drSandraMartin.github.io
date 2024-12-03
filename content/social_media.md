@@ -29,7 +29,8 @@ sections:
         - title: "GitHub"
           url: "https://github.com/yourusername"
           icon: "github"
- ---
+ 
+---
 
 All the links.
 

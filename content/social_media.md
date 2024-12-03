@@ -22,20 +22,20 @@ social_links:
     - title: "GitHub"
       url: "https://github.com/sandrushba"
       icon: brands/github
+    - title: "MPI CBS"
+      url: "https://www.cbs.mpg.de/employees/martin"
+      icon: custom/Minerva
     - title: "Gitlab"
       url: "https://gitlab.gwdg.de/sandra.martin"
       icon: devicon/gitlab
     - title: "OSF"
       url: "https://osf.io/6va5c/"
       icon: academicons/osf
-    - title: "MPI CBS"
-      url: "https://www.cbs.mpg.de/employees/martin"
-      icon: custom/Minerva
     - title: "Twitter"
       url: "https://twitter.com/sandram4rtin"
       icon: brands/x
     - title: "LinkedIn"
-      url: "https://linkedin.com/in/yourusername"
+      url: "https://www.linkedin.com/in/sandra-martin-phd-b946a8233/"
       icon: brands/linkedin
     
  

@@ -67,3 +67,7 @@
 .tag-title {
   font-size: 1rem; /* Adjust the size as needed */
 }
+
+.skills-icon svg {
+  fill: gray !important;
+}

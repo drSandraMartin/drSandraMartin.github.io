@@ -4,6 +4,7 @@ date: 2023-10-10
 show_date: false
 draft: false
 type: social_media
+layout: social_media
 
 sections:
   - block: markdown
@@ -11,9 +12,9 @@ sections:
     content:
       title: Social Media
       subtitle: A subtitle
-      text: |  
-        <div class="social-media-link">
-          <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
+      text: |
+        <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
+      icon: "twitter"
             <img src="brands/x" alt="Twitter" class="w-6 h-6 mr-2">
             <span>Follow me on Twitter</span>
           </a>

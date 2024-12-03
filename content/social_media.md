@@ -5,7 +5,7 @@ type: landing
 # Add your page sections below
 # Replace <USERNAME> and <BLOCK-NAME> with your GitHub username and block name, respectively.
 sections:
-  - block: 'github.drSandraMartin.social-media'
+  - block: 'social-media'
     content:
       title: Social Media
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!

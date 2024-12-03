@@ -15,13 +15,13 @@ social_links:
       icon: academicons/researchgate
     - title: "Google Scholar"
       url: "https://scholar.google.de/citations?user=3sG78UAAAAAJ&hl=de"
-      icon: google-scholar  
+      icon: brands/google-scholar  
     - title: "ORCid"
       url: "https://orcid.org/0000-0002-6687-5278"
-      icon: orcid
+      icon: brands/orcid
     - title: "GitHub"
       url: "https://github.com/yourusername"
-      icon: github
+      icon: brands/github
     - title: "Gitlab"
       url: "https://gitlab.gwdg.de/sandra.martin"
       icon: devicon/gitlab
@@ -33,10 +33,10 @@ social_links:
       icon: custom/Minerva
     - title: "Twitter"
       url: "https://twitter.com/sandram4rtin"
-      icon: x
+      icon: brands/x
     - title: "LinkedIn"
       url: "https://linkedin.com/in/yourusername"
-      icon: linkedin
+      icon: brands/linkedin
     
  
 ---

@@ -28,12 +28,19 @@
   <div class="w-full grid grid-cols-1 md:grid-cols-3 gap-6">
     {{ if $social_links }}
     {{ range $idx, $link := $social_links }}
+
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+    {{ end }}
+
     <div class="p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 transform transition-transform hover:scale-105">
       <div class="flex items-center">
         {{- $icon := $link.icon }}
         {{ with $icon }}
-        <div class="w-7 h-7 text-gray-500 dark:text-gray-400 mr-3">
-          {{ partial "functions/get_icon" (dict "name" $icon "pack" "brands" "attributes" "style=\"height: 100%;\"")  }}
+        <div class="skills-icon w-7 h-7 text-gray-500 dark:text-gray-400 mr-3">
+          {{ partial "functions/get_icon" (dict "name" . "attributes" "style=\"height: 100%;\"")  }}
         </div>
         {{ end}}
         {{with $link.url}}<a href={{.}} target="_blank" rel="noopener">{{end}}

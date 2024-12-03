@@ -10,7 +10,7 @@ sections:
       title: All the links.
 
 social_links:
-    - title: "ResearchGate"
+    - title: <div style="word-break: break-all;">"ResearchGate"</div>
       url: "https://www.researchgate.net/profile/Sandra-Martin-16"
       icon: academicons/researchgate
     - title: "Google Scholar"

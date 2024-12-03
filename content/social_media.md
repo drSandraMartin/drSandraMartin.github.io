@@ -12,7 +12,7 @@ sections:
 social_links:
     - title: "ResearchGate"
       url: "https://www.researchgate.net/profile/Sandra-Martin-16"
-      icon: "academicons/researchgate"
+      icon: academicons/researchgate
     - title: "Google Scholar"
       url: "https://scholar.google.de/citations?user=3sG78UAAAAAJ&hl=de"
       icon: "google-scholar"  
@@ -24,13 +24,13 @@ social_links:
       icon: "github"
     - title: "Gitlab"
       url: "https://gitlab.gwdg.de/sandra.martin"
-      icon: "devicon/gitlab"
+      icon: devicon/gitlab
     - title: "OSF"
       url: "https://osf.io/6va5c/"
-      icon: "academicons/osf"
+      icon: academicons/osf
     - title: "MPI CBS"
       url: "https://www.cbs.mpg.de/employees/martin"
-      icon: "custom/Minerva"
+      icon: custom/Minerva
     - title: "Twitter"
       url: "https://twitter.com/sandram4rtin"
       icon: "x"

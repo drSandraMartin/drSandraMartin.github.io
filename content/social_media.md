@@ -3,7 +3,7 @@ title: Social Media
 date: 2023-10-10
 show_date: false
 draft: false
-type: landing
+type: social_media
 
 sections:
   - block: markdown
@@ -13,8 +13,8 @@ sections:
       subtitle: A subtitle
       text: |  
         <div class="social-media-link">
-          <a href="https://twitter.com/yourusername" target="_blank" rel="noopener" class="flex items-center">
-            <img src="/path/to/twitter-icon.svg" alt="Twitter" class="w-6 h-6 mr-2">
+          <a href="https://twitter.com/sandram4rtin" target="_blank" rel="noopener" class="flex items-center">
+            <img src="brands/x" alt="Twitter" class="w-6 h-6 mr-2">
             <span>Follow me on Twitter</span>
           </a>
         </div>
@@ -37,9 +37,3 @@ sections:
 
 All the links.
 
-<div class="social-media-link">
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noopener" class="flex items-center">
-    <img src="/path/to/twitter-icon.svg" alt="Twitter" class="w-6 h-6 mr-2">
-    <span>Follow me on Twitter</span>
-  </a>
-</div>

@@ -22,5 +22,6 @@ Find the code and data related to the projects' publications here: https://gitla
 Related publications:
 - [Age-Dependent Contribution of Domain-General Networks to Semantic Cognition]({{< ref "/publication/martin-age-dependent-contribution-domain-general-2022/index.md" >}})
 - [Age-Related Reorganization of Functional Network Architecture in Semantic Cognition]({{< ref "/publication/martin-agerelated-reorganization-functional-2023/index.md" >}})
+- [Semantic Integration Demands Modulate Large-Scale Network Interactions in the Brain]({{< ref "/publication/nieberlein-semantic-integration-hbm-2024/index.md" >}})
 
 <!--more-->

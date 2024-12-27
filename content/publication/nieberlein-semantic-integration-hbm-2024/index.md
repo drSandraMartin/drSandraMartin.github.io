@@ -46,3 +46,5 @@ reading_time: false
 share: false
 profile: false
 ---
+
+How do enhanced semantic integration demands modulate language-specific and domain general-neural networks? Our new article now out in HBM sheds some light on network interactions in the brain!

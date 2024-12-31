@@ -59,8 +59,7 @@ education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences
     #date_start: 2018-02-01
-    #date_end: 2023-08-31
-    date: 2023-08-31
+    date_end: 2023-08-31
     summary: |
       Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by <a href="https://www.cbs.mpg.de/2038497/hartwigsen">Prof Dr Gesa Hartwigsen</a> and <a href="https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf">Prof Dr Dorothee Saur</a>
     button:
@@ -69,8 +68,7 @@ education:
   - area: MSc Clinical Linguistics
     institution: University of Potsdam, Germany & University of Groningen, The Netherlands
     #date_start: 2012-10-01
-    #date_end: 2014-09-30
-    date: 2014-09-30
+    date_end: 2014-09-30
     summary: |
       Grade: Excellent (1.1)
 

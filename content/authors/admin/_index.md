@@ -59,7 +59,7 @@ education:
   - area: PhD Cognitive Neuroscience
     institution: Max Planck Institute for Human Cognitive and Brain Sciences
     #date_start: 2018-02-01
-    date_end: 2023
+    date_end: 2023-08-01
     summary: |
       Thesis on _The aging brain in semantic cognition—Insights from fMRI and TMS_. Supervised by <a href="https://www.cbs.mpg.de/2038497/hartwigsen">Prof Dr Gesa Hartwigsen</a> and <a href="https://www.uniklinikum-leipzig.de/einrichtungen/neurologie/Freigegebene%20Dokumente/lebenslauf-saur-neurologie-uniklinikum-leipzig.pdf">Prof Dr Dorothee Saur</a>
     button:
@@ -89,7 +89,7 @@ work:
       Max Planck Institute for Human Cognitive and Brain Sciences
     company_url: 'https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity'
     company_logo: ''
-    date_start: 2023-08-01
+    date_start: 2023-01-01
     #date_end: 
     summary: |
       Project: Contribution of cognitive control resources to the processing of language surprisal across
@@ -103,18 +103,17 @@ work:
     company_url: 'https://www.cbs.mpg.de/independent-research-groups/cognition-and-plasticity'
     company_logo: ''
     date_start: 2018-01-01
-    date_end: 2023-08-01
+    date_end: 2022-12-31
     summary: |
-      Project: Contribution of cognitive control resources to the processing of language surprisal across
-      the adult life span (DFG-funded project in collaboration with University of Lübeck)   
-      Advisers: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Jonas Obleser (University of Lübeck)
+      Project: The Aging Brain in Semantic Cognition
+      Supervisors: Prof. Dr. Gesa Hartwigsen (MPI CBS), Prof. Dr. Dorothee Saur (University Clinic Leipzig)
 
   - position: Speech-Language Pathologist
     company_name: Median Klinik Berlin Kladow, Germany, Clinic for neurological rehabilitation
     company_url: ''
     company_logo: ''
     date_start: 2015-06-01
-    date_end: '2017-12-31'
+    date_end: 2017-12-31
     summary: ''
 
   - position: Research Internship

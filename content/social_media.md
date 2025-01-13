@@ -31,9 +31,9 @@ social_links:
     - title: "OSF"
       url: "https://osf.io/6va5c/"
       icon: academicons/osf
-    - title: "Twitter"
-      url: "https://twitter.com/sandram4rtin"
-      icon: brands/x
+    - title: "Bluesky"
+      url: "https://bsky.app/profile/drsandramartin.bsky.social"
+      icon: brands/bluesky
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/sandra-martin-phd-b946a8233/"
       icon: brands/linkedin

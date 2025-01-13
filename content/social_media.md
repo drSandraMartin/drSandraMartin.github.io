@@ -33,7 +33,7 @@ social_links:
       icon: academicons/osf
     - title: "Bluesky"
       url: "https://bsky.app/profile/drsandramartin.bsky.social"
-      icon: brands/bluesky
+      icon: custom/Bluesky_Logo
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/sandra-martin-phd-b946a8233/"
       icon: brands/linkedin

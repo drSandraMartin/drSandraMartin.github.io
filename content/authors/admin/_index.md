@@ -227,8 +227,8 @@ languages:
 awards:
   - title: Travel award
     date: '2025-02-01'
-    awarder: Dallas Aging and Cognition Conference
-    summary: I received a travel award to present my work at the conference in Dallas
+    awarder: Dallas Aging and Cognition Conference, Center for Vital Longevity Dallas
+    summary: I received a travel award to present my work at the Dallas Aging and Cognition Conference
   - title: Poster prize
     date: '2023-06-01'
     awarder: Conference Psychology and Brain (Psychologie und Gehirn)

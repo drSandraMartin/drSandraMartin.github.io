@@ -225,9 +225,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Travel award
+    date: '2025-02-01'
+    awarder: Dallas Aging and Cognition Conference
+    summary: I received a travel award to present my work at the conference in Dallas
   - title: Poster prize
     date: '2023-06-01'
-    awarder: Conference Psychology und Gehirn
+    awarder: Conference Psychology and Brain (Psychologie und Gehirn)
   - title: PhD Fellowship (~80.000 €)
     url: https://www.studienstiftung.de/en/
     date: '2018-02-01'

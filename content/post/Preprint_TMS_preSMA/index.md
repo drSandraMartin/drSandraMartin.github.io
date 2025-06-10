@@ -1,6 +1,6 @@
 ---
 title: 📚 New preprint on the roles of left IFG and pre-SMA in semantic and executive control
-summary: We have a new preprint out where we investigated the causal contributions of two key regions of cognitive control":" the left inferior frontal gyrus (IFG) and the pre-supplementary motor area (pre-SMA) in the medial frontal gyrus using TMS.
+summary: "We have a new preprint out where we investigated the causal contributions of two key regions of cognitive control: the left inferior frontal gyrus (IFG) and the pre-supplementary motor area (pre-SMA) in the medial frontal gyrus using TMS."
 
 date: 2025-04-05
 

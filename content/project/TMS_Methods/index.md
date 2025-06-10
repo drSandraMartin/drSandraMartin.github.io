@@ -15,7 +15,7 @@ show_related: false
 featured: false
 ---
 
-Exploring the roles of key regions in the frontal cortex to semantic and domain-general executive control via TMS and fMRI.
+How can we get a better understanding of 
 
 Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph and https://osf.io/q5kam/.
 

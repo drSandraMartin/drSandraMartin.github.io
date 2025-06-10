@@ -12,7 +12,7 @@ share: false
 profile: false
 show_related: false
 # Display this page in the Featured widget?
-featured: true
+featured: false
 ---
 
 Exploring the roles of key regions in the frontal cortex to semantic and domain-general executive control via TMS and fMRI.

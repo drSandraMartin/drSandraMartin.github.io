@@ -1,6 +1,6 @@
 ---
 title: 👩🏼‍🏫 Block Seminar at Ghent University on Mixed-Effects Regression in Psychology
-summary: Three time's a charm':' I returned to Ghent Uni this May to teach an intensive seminar on statistics for the third time.
+summary: Three time's a charm":" I returned to Ghent Uni this May to teach an intensive seminar on statistics for the third time.
 date: 2025-05-20
 
 # Featured image

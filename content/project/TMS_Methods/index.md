@@ -1,11 +1,11 @@
 ---
-title: Causal Roles of Inferior Frontal Gyrus (IFG) and Medial Frontal Gyrus to Semantic and Domain-General Executive Control
-date: 2020-2025
+title: Advancing the Application of TMS in neurocognitve research and beyond
+date: 2023-2025
 # external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
 tags:
-  - Executive Control
   - TMS
-  - Semantic Cognition
+  - Methods Development
+  - Non-invasive Brain Stimulation
 show_date: false
 reading_time: false
 share: false

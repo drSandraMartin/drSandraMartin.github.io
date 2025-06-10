@@ -13,7 +13,7 @@ tags:
   - Semantic Cognition
   - TMS
   - New Paper
-  - Cognitive Control
+  - Executive Control
 
 reading_time: false
 share: false

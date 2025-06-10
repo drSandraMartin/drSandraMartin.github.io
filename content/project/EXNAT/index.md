@@ -3,10 +3,10 @@ title: Language Predictability across the Adult Lifespan
 date: '2024-05-01'
 #external_link: https://gitlab.gwdg.de/functionalconnectivityaging
 tags:
+  - Language Predictability
   - Aging
   - Executive Functions
-  - Language
-  - Language Surprisal
+  - Predictive Processing
 show_date: false
 hide_date: true
 reading_time: false

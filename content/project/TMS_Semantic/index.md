@@ -1,6 +1,6 @@
 ---
 title: Causal Roles of Inferior Frontal Gyrus (IFG) and Medial Frontal Gyrus to Semantic and Domain-General Executive Control
-date: 2020-2025
+date: '2025-02-01'
 # external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
 tags:
   - Executive Control

@@ -5,7 +5,7 @@ date: 2023-2025
 tags:
   - TMS
   - Methods Development
-  - Non-invasive Brain Stimulation
+  - Non-Invasive Brain Stimulation
 show_date: false
 reading_time: false
 share: false

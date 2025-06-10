@@ -12,7 +12,7 @@ share: false
 profile: false
 show_related: false
 # Display this page in the Featured widget?
-featured: false
+featured: true
 ---
 
 How can we make the application of transcranial magnetic stimulation (TMS) in cognitive neuroscience more robust and replicable? How can we advance its understanding for clinical applications? 

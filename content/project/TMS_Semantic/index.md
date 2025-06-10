@@ -1,10 +1,10 @@
 ---
-title: The Causal Role of the Multiple-Demand Network in Semantic and Domain-General Control
-date: 2020-2024
+title: Causal Roles of Inferior Frontal Gyrus (IFG) and Medial Frontal Gyrus to Semantic and Domain-General Executive Control
+date: 2020-2025
 # external_link: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
 tags:
   - TMS
-  - Semantic cognition
+  - Semantic Cognition
   - Executive control
 show_date: false
 reading_time: false
@@ -15,10 +15,12 @@ show_related: false
 featured: true
 ---
 
-We explored the modulation of semantic and domain-general control in semantic processing via rTMS and fMRI.
+Exploring the roles of key regions in the frontal cortex to semantic and domain-general executive control via TMS and fMRI.
 
-Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph
+Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph and https://osf.io/q5kam/.
 
-Related publications: [TMS over the Pre-SMA Enhances Semantic Cognition via Remote Network Effects on Task-Based Activity and Connectivity]({{< ref "/publication/martin-tms-pre-sma-enhances-2023/index.md" >}})
+Related publications: 
+- [TMS over the Pre-SMA Enhances Semantic Cognition via Remote Network Effects on Task-Based Activity and Connectivity]({{< ref "/publication/martin-tms-pre-sma-enhances-2023/index.md" >}})
+- [Causal contributions of left inferior and medial frontal cortex to semantic and executive control]({{< ref "/post/Preprint_TMS_preSMA/index.md" >}})
 
 <!--more-->

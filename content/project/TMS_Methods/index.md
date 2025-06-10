@@ -15,12 +15,11 @@ show_related: false
 featured: false
 ---
 
-How can we get a better understanding of 
+How can we make the application of transcranial magnetic stimulation (TMS) in cognitive neuroscience more robust and replicable? How can we advance its understanding for clinical applications? 
 
-Find the code and data related to the projects' publications here: https://gitlab.gwdg.de/mdn-in-aging-and-aphasia/mdn_aph and https://osf.io/q5kam/.
+This page collects projects that I lead or participate in, aiming to answer these questions or at least approximate them.
 
 Related publications: 
-- [TMS over the Pre-SMA Enhances Semantic Cognition via Remote Network Effects on Task-Based Activity and Connectivity]({{< ref "/publication/martin-tms-pre-sma-enhances-2023/index.md" >}})
-- [Causal contributions of left inferior and medial frontal cortex to semantic and executive control]({{< ref "/post/Preprint_TMS_preSMA/index.md" >}})
+- [Target-Specificity and Repeatability in Neuro-Cardiac-Guided  TMS for Heart-Brain Coupling]({{< ref "/publication/feng-hbc-2025/index.md" >}})
 
 <!--more-->

@@ -1,6 +1,6 @@
 ---
 title: 📚 New article out in Communications Biology
-summary: Disentangling the roles of inferior and medial frontal cortices in domain-specific and domain-general control processes
+summary: We explore the roles of inferior and medial frontal cortices in domain-specific and domain-general control processes using repetitive TMS
 date: 2024-12-27
 
 # Featured image
@@ -19,7 +19,7 @@ share: false
 profile: false
 ---
 
-**Unlocking the Brain's Semantic Integration: New Insights from Our fMRI Study**. 
+**Disentangling the roles of inferior and medial frontal cortices in domain-specific and domain-general control processes**. 
 
 Proud to share our new Communications Biology paper revealing a two-part control system for flexible thinking: left IFG fine-tunes meaning, while pre-SMA drives domain‑general control across tasks.
 

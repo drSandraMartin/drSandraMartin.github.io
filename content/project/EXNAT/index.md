@@ -24,8 +24,8 @@ In a first step, we tested the paradigm in a large sample (n = 175 participants,
 We are now running this study in the MRI and are also planning to explore the causal relevance of certain regions via non-invasive brain stimulation.
 
 Related Output:  
-*Preprint*  
-- [Executive Resources Shape the Effects of Language Predictability Across the Adult Lifespan]({{< ref "/publication/schuckart-limited-cognitive-resources-2024/index.md" >}})
+*Manuscripts*  
+- [Executive Resources Shape the Effects of Language Predictability Across the Adult Lifespan]({{< ref "/publication/schuckart_martin_elife_2025/index.md" >}})
 
 *Conferences*  
 - [Link to the poster I presented at SNL 2023]({{< ref "/post/Poster_SNL_2023/index.md" >}})

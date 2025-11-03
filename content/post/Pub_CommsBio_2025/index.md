@@ -25,4 +25,4 @@ Proud to share our new Communications Biology paper revealing a two-part control
 
 By causally perturbing each region during semantic and executive fluency, we show shared involvement but distinct specializations—IFG leans semantic, pre‑SMA leans executive—highlighting a resilient, distributed network.
  
-{{< cta text="Open access here:" link="https://doi.org/10.1038/s42003-025-08848-5" buttonText="doi.org/10.1002/hbm.70113" >}}
+{{< cta text="Open access here:" link="https://doi.org/10.1038/s42003-025-08848-5" buttonText="doi.org/10.1038/s42003-025-08848-5" >}}

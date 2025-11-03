@@ -15,7 +15,7 @@ publishDate: '2025-10-10T09:10:50.254246Z'
 publication_types:
 - article-journal
 publication: '*eLife*'
-doi: 10.7554/eLife.108176.1
+doi: "10.7554/eLife.108176.1"
 abstract: Humans routinely anticipate upcoming language, but whether such predictions come at a cognitive cost remains debated. In this study, we demonstrate the resource-dependent nature of predictive mechanisms in language comprehension across the lifespan: Experimentally limiting executive resources through a concurrent task reduces the effect of language predictability on reading time. Participants (N=175, replication N=96) read short articles presented word-by-word while completing a secondary font colour n-back task, thus varying cognitive demand. Language predictability was indexed by word surprisal as derived from a pre-trained large language model (GPT-2). Across two independent samples, our findings reveal that language predictions are not cost-free: They draw on executive control resources, and this dependency becomes more pronounced with age (18–85 years). These results help resolve the debate over cognitive demands in language comprehension and highlight prediction as a dynamic, resource-dependent process across the lifespan.
 
 tags:

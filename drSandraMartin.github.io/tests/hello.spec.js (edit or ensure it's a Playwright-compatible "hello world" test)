@@ -1,0 +1,17 @@
+{
+  "name": "drSandraMartin.github.io",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@playwright/test": "^1.0.0"
+  },
+  "scripts": {
+    "test": "playwright test"
+  }
+}
+
+const { test, expect } = require('@playwright/test');
+
+test('hello world', async ({ page }) => {
+  await page.goto('https://example.com');
+  expect(await page.title()).toBe('Example Domain');
+});

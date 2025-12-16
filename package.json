@@ -1,0 +1,28 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently -k \"hugo server -D -p 1313\" \"npx playwright test --watch\"",
+    "preview": "hugo server -D -p 1313",
+    "build": "hugo",
+    "serve:public": "npx http-server public -p 5000 -c-1",
+    "test:live": "npx playwright test",
+    "test:built": "PLAYWRIGHT_BASE_URL=http://localhost:5000 npx playwright test",
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "playwright": "^1.0.0",
+    "concurrently": "^7.6.0",
+    "http-server": "^14.1.1",
+    "wait-on": "^7.0.1"
+  },
+  "description": "This is my personal website. Rights and permissions all belong to Sandra Martin.",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

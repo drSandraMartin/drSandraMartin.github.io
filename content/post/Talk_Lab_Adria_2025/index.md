@@ -23,6 +23,6 @@ share: false
 
 profile: false
 ---
+This autumn, I had the chance to share my research at several events: the Berlin Neuroscience Meeting, the Language Testing and Brain Surgery Lab at the University of Groningen (led by Adrià Rofes), and the Linguistics in Verona (LiVe) meeting.  
 
-I was invited for a talk at the lab meeting of the Language Testing And Brain Surgery Lab at University of Groningen headed by Adrià Rofes.  
-annual meeting of the German Aphasia Society (GAB). I presented recent results on the neural basis of semantic control. We use voxel- and disconnectome-mapping in chronic aphasia to disentangle the role of frontal and temporal regions in semantic control. Stay tuned for a preprint coming soon!
+It was great to exchange ideas and receive thoughtful feedback while presenting new results from my work on executive control in language processing across the adult lifespan.

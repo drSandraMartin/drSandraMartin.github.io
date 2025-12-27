@@ -256,10 +256,10 @@ awards:
 ---
 
 ## Welcome
-<font color="white">I am a cognitive neuroscientist at the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany. I combine neuroimaging and neuromodulation methods with graph theory, large language models (LLMs), and behavioral modeling to explore cognitive changes across the adult lifespan.
+<font color="white"> I am a cognitive neuroscientist with a focus on computational modeling of brain signals in language and cognition across the adult lifespan. My work integrates fMRI, TMS, and behavioral measures with machine learning and large language models to quantify prediction, semantic control, and executive functions.
 {style="text-align: justify;"}  
 
-I am particularly interested in the age-related changes in the trajectories of memory processes and their interaction with executive functions. I am also a strong supporter of open and reproducible research practices and strive to implement them in my own work.
+I am also a strong supporter of open and reproducible research practices and implement them in my own work.
 {style="text-align: justify;"}
 
 Please reach out if you're interested to chat or to collaborate! <a href= "mailto: martin@cbs.mpg.de">:postbox:</a></font>
